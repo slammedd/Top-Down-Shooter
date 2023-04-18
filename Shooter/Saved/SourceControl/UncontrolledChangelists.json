@@ -39,7 +39,16 @@
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
-				"H:/Repos/Top-Down-Shooter/Shooter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
+				"H:/Repos/Top-Down-Shooter/Shooter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"H:/Repos/Top-Down-Shooter/Shooter/Content/Input/Actions/IA_Jump.uasset",
+				"H:/Repos/Top-Down-Shooter/Shooter/Content/Input/Actions/IA_Look.uasset",
+				"H:/Repos/Top-Down-Shooter/Shooter/Content/Input/Actions/IA_Move.uasset",
+				"H:/Repos/Top-Down-Shooter/Shooter/Content/Input/IMC_Default.uasset",
+				"H:/Repos/Top-Down-Shooter/Shooter/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"H:/Repos/Top-Down-Shooter/Shooter/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
+				"H:/Repos/Top-Down-Shooter/Shooter/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
+				"H:/Repos/Top-Down-Shooter/Shooter/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
+				"H:/Repos/Top-Down-Shooter/Shooter/Content/Input/Actions/IA_Zoom.uasset"
 			]
 		}
 	]
