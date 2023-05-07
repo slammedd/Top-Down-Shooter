@@ -133,6 +133,8 @@
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/Materials/MAT_Player_Health_Inst.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/Materials/MAT_Player_Health_Inst1.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/Blueprints/BPI_Player_Hit.uasset",
+				"H:/Repos/Top-Down-Shooter/Shooter/Content/Materials/MAT_Player_Impact.uasset",
+				"H:/Repos/Top-Down-Shooter/Shooter/Content/Sounds/SC_Player_Damage.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8D/874L0I0C41U483PIDM974P.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/Blueprints/AI/AIC_Pyr.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/Blueprints/AI/AIC_Pyro.uasset",
