@@ -2758,3 +2758,484 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.08-19.18.21:475][ 75]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/Niagara/NS_Flamethrower.NS_Flamethrower
 [2023.05.08-19.18.21:475][ 75]LogNiagaraEditor: GPU shader compile skipped. Id 1
 [2023.05.08-19.18.21:475][ 75]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2023.05.08-19.21.14:700][ 32]123377_NS_Fire_MessageLog: System compile status unknown.
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: ================================================
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: Total job queries 437, among them cache hits 40 (9.15%)
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: Tracking 371 distinct input hashes that result in 260 distinct outputs (70.08%)
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: RAM used: 4.39 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.27%
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: Shaders Compiled: 137
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: Jobs assigned 137, completed 137 (100.00%)
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: Average time worker was idle: 136.40 s
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 1.09 s
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: Job execution time: average 0.62 s, max 2.45 s
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: Job life time (pending + execution): average 0.70 s, max 2.55
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 64.04 s
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: Jobs were issued in 133 batches (only local compilation was used), average 1.03 jobs/batch
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: Average processing rate: 2.14 jobs/sec
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: Total thread time: 56.50 s
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: Total thread preprocess time: 0.62 s
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: Percentage time preprocessing: 1.10%
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: Effective parallelization: 0.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display:                                               FNiagaraShader (compiled  129 times, average 0.42 sec, max 1.15 sec, min 0.04 sec)
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display:                                               FNiagaraShader - 95.01% of total time (compiled  129 times, average 0.42 sec, max 1.15 sec, min 0.04 sec)
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 1.09% of total time (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 0.94% of total time (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 0.93% of total time (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.82% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.05.08-19.21.15:068][ 56]LogShaderCompilers: Display: ================================================
+[2023.05.08-19.21.15:113][ 58]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.577217 sec (time since issued), 0.997792 sec (combined shader worker time).
+[2023.05.08-19.21.16:706][165]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.21.20:900][511]123377_NS_Fire_MessageLog: System compile status unknown.
+[2023.05.08-19.21.21:262][527]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.544867 sec (time since issued), 0.746750 sec (combined shader worker time).
+[2023.05.08-19.21.22:904][632]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.22.12:644][ 75]123377_NS_Fire_MessageLog: System compile status unknown.
+[2023.05.08-19.22.13:212][109]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.756749 sec (time since issued), 1.030798 sec (combined shader worker time).
+[2023.05.08-19.22.14:651][200]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.22.48:801][480]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/VFX/Niagara/NS_Footstep_Smoke.NS_Footstep_Smoke
+[2023.05.08-19.22.48:888][480]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-19.22.48:910][480]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Footstep_Smoke.NS_Footstep_Smoke took 0.104130 sec, no shader worker used.
+[2023.05.08-19.22.48:930][480]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-19.22.49:059][480]LogViewport: Scene viewport resized to 735x1045, mode Windowed.
+[2023.05.08-19.22.49:389][486]39972_NS_Footstep_Smoke_MessageLog: System successfully compiled.
+[2023.05.08-19.23.01:788][331]123377_NS_Fire_MessageLog: System compile status unknown.
+[2023.05.08-19.23.02:383][365]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.802145 sec (time since issued), 1.119933 sec (combined shader worker time).
+[2023.05.08-19.23.03:798][458]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.24.01:504][177]LogViewport: Scene viewport resized to 232x777, mode Windowed.
+[2023.05.08-19.24.05:968][412]LogViewport: Scene viewport resized to 735x1045, mode Windowed.
+[2023.05.08-19.24.54:689][786]123377_NS_Fire_MessageLog: System compile status unknown.
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display: ================================================
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display: Total job queries 445, among them cache hits 40 (8.99%)
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display: Tracking 378 distinct input hashes that result in 266 distinct outputs (70.37%)
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display: RAM used: 4.57 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.28%
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display: Shaders Compiled: 144
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display: Jobs assigned 145, completed 144 (99.31%)
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display: Average time worker was idle: 131.63 s
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 1.09 s
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display: Job execution time: average 0.60 s, max 2.45 s
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display: Job life time (pending + execution): average 0.69 s, max 2.55
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 65.90 s
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display: Jobs were issued in 141 batches (only local compilation was used), average 1.03 jobs/batch
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display: Average processing rate: 2.19 jobs/sec
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display: Total thread time: 57.79 s
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display: Total thread preprocess time: 0.62 s
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display: Percentage time preprocessing: 1.08%
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display: Effective parallelization: 0.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2023.05.08-19.24.55:057][809]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2023.05.08-19.24.55:058][809]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.05.08-19.24.55:058][809]LogShaderCompilers: Display:                                               FNiagaraShader (compiled  136 times, average 0.40 sec, max 1.15 sec, min 0.04 sec)
+[2023.05.08-19.24.55:058][809]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.08-19.24.55:058][809]LogShaderCompilers: Display:                                               FNiagaraShader - 95.12% of total time (compiled  136 times, average 0.40 sec, max 1.15 sec, min 0.04 sec)
+[2023.05.08-19.24.55:058][809]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 1.07% of total time (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.05.08-19.24.55:058][809]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 0.92% of total time (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2023.05.08-19.24.55:058][809]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 0.91% of total time (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2023.05.08-19.24.55:058][809]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.80% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.05.08-19.24.55:058][809]LogShaderCompilers: Display: ================================================
+[2023.05.08-19.24.55:413][832]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.929189 sec (time since issued), 1.362422 sec (combined shader worker time).
+[2023.05.08-19.24.56:693][909]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.24.58:704][ 28]123377_NS_Fire_MessageLog: System compile status unknown.
+[2023.05.08-19.24.59:408][ 67]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.894223 sec (time since issued), 1.249938 sec (combined shader worker time).
+[2023.05.08-19.25.00:708][144]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.25.04:520][360]123377_NS_Fire_MessageLog: System compile status unknown.
+[2023.05.08-19.25.05:270][400]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 1.001650 sec (time since issued), 1.419649 sec (combined shader worker time).
+[2023.05.08-19.25.06:525][473]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.25.19:484][355]123377_NS_Fire_MessageLog: System compile status unknown.
+[2023.05.08-19.25.20:240][400]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.989507 sec (time since issued), 1.313643 sec (combined shader worker time).
+[2023.05.08-19.25.20:418][408]Cmd: TRANSACTION UNDO
+[2023.05.08-19.25.20:419][408]LogEditorTransaction: Undo Make dynamic input
+[2023.05.08-19.25.20:621][408]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.022109 sec, no shader worker used.
+[2023.05.08-19.25.21:501][444]48604_NS_Flamethrower_MessageLog: System successfully compiled.
+[2023.05.08-19.25.21:501][444]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.25.21:501][444]39972_NS_Footstep_Smoke_MessageLog: System successfully compiled.
+[2023.05.08-19.25.23:508][559]123377_NS_Fire_MessageLog: System compile status unknown.
+[2023.05.08-19.25.26:664][912]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 4.040798 sec (time since issued), 4.501018 sec (combined shader worker time).
+[2023.05.08-19.25.26:948][915]123377_NS_Fire_MessageLog: System compile status unknown.
+[2023.05.08-19.25.27:608][953]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.893471 sec (time since issued), 1.227692 sec (combined shader worker time).
+[2023.05.08-19.25.28:952][ 53]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.25.29:521][109]LogNiagaraEditor: Removed Var 'Constants.Fountain.Color.Color' from Script NiagaraScript /Game/VFX/Niagara/NS_Fire.NS_Fire:Fountain.SpawnScript
+[2023.05.08-19.25.29:525][109]LogNiagaraEditor: Removed Var 'Constants.Fountain.Color.Color' from Script NiagaraScript /Game/VFX/Niagara/NS_Fire.NS_Fire:Fountain.UpdateScript
+[2023.05.08-19.25.30:633][161]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 1.022658 sec (time since issued), 1.382478 sec (combined shader worker time).
+[2023.05.08-19.25.30:962][183]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.25.36:669][574]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-19.25.36:669][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-19.25.36:681][574]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-19.25.36:681][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-19.25.36:796][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.05.08-19.25.37:986][645]LogAssetEditorSubsystem: Opening Asset editor for NiagaraScript /Niagara/Modules/Update/Color/Color.Color
+[2023.05.08-19.25.38:005][645]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.08-19.25.38:114][645]MaterialEditorStats: LastOpCount: 0
+[2023.05.08-19.25.38:134][645]4002FFA749615EE4FAB9ECB07953321A_Color_MessageLog: Script compile status unknown.
+[2023.05.08-19.25.52:866][644]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.08-19.25.58:908][ 53]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.08-19.26.06:883][592]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.08-19.26.13:293][ 16]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.08-19.26.21:393][575]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.08-19.26.23:054][686]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.022186 sec, no shader worker used.
+[2023.05.08-19.26.23:085][687]123377_NS_Fire_MessageLog: System compile status unknown.
+[2023.05.08-19.26.25:085][823]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.26.25:617][860]Cmd: TRANSACTION UNDO
+[2023.05.08-19.26.25:617][860]LogEditorTransaction: Undo Delete modules
+[2023.05.08-19.26.25:805][860]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.021652 sec, no shader worker used.
+[2023.05.08-19.26.27:099][927]48604_NS_Flamethrower_MessageLog: System successfully compiled.
+[2023.05.08-19.26.27:100][927]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.26.50:042][427]123377_NS_Fire_MessageLog: System compile status unknown.
+[2023.05.08-19.26.50:717][468]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.898984 sec (time since issued), 1.279722 sec (combined shader worker time).
+[2023.05.08-19.26.52:050][559]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.26.57:302][ 53]123377_NS_Fire_MessageLog: System compile status unknown.
+[2023.05.08-19.26.58:024][ 91]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.967213 sec (time since issued), 1.388057 sec (combined shader worker time).
+[2023.05.08-19.26.59:316][171]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.27.00:485][251]Cmd: TRANSACTION UNDO
+[2023.05.08-19.27.00:485][251]LogEditorTransaction: Undo Insert new module
+[2023.05.08-19.27.00:666][251]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.019912 sec, no shader worker used.
+[2023.05.08-19.27.01:317][279]48604_NS_Flamethrower_MessageLog: System successfully compiled.
+[2023.05.08-19.27.01:317][279]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.27.04:012][548]123377_NS_Fire_MessageLog: System compile status unknown.
+[2023.05.08-19.27.04:816][592]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 1.059019 sec (time since issued), 1.402668 sec (combined shader worker time).
+[2023.05.08-19.27.06:015][663]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.27.35:516][641]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.023532 sec, no shader worker used.
+[2023.05.08-19.27.35:547][642]123377_NS_Fire_MessageLog: System compile status unknown.
+[2023.05.08-19.27.37:552][818]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.27.40:541][144]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.037853 sec, no shader worker used.
+[2023.05.08-19.27.40:580][145]123377_NS_Fire_MessageLog: System compile status unknown.
+[2023.05.08-19.27.42:335][292]LogNiagaraEditor: Move module /Game/VFX/Niagara/NS_Fire.NS_Fire:Fountain.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraNodeFunctionCall_24
+[2023.05.08-19.27.42:340][292]LogNiagaraEditor: Finished moving!
+[2023.05.08-19.27.42:643][294]123377_NS_Fire_MessageLog: System compile status unknown.
+[2023.05.08-19.27.43:348][337]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.932286 sec (time since issued), 1.308085 sec (combined shader worker time).
+[2023.05.08-19.27.44:651][461]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.27.49:230][971]LogNiagaraEditor: Removed Var 'Constants.Fountain.ScaleMeshSize.Scale Factor' from Script NiagaraScript /Game/VFX/Niagara/NS_Fire.NS_Fire:Fountain.SpawnScript
+[2023.05.08-19.27.49:233][971]LogNiagaraEditor: Removed Var 'Constants.Fountain.ScaleMeshSize.Scale Factor' from Script NiagaraScript /Game/VFX/Niagara/NS_Fire.NS_Fire:Fountain.UpdateScript
+[2023.05.08-19.27.49:570][973]123377_NS_Fire_MessageLog: System compile status unknown.
+[2023.05.08-19.27.50:213][ 10]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.894880 sec (time since issued), 1.231745 sec (combined shader worker time).
+[2023.05.08-19.27.51:576][107]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.28.16:661][926]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Flamethrower.NS_Flamethrower took 0.037377 sec, no shader worker used.
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: ================================================
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: Total job queries 467, among them cache hits 40 (8.57%)
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: Tracking 401 distinct input hashes that result in 287 distinct outputs (71.57%)
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: RAM used: 5.44 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.33%
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: Shaders Compiled: 167
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: Jobs assigned 167, completed 167 (100.00%)
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: Average time worker was idle: 115.55 s
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 1.09 s
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: Job execution time: average 0.59 s, max 2.45 s
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: Job life time (pending + execution): average 0.67 s, max 2.55
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 73.83 s
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: Jobs were issued in 163 batches (only local compilation was used), average 1.02 jobs/batch
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: Average processing rate: 2.26 jobs/sec
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: Total thread time: 64.73 s
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: Total thread preprocess time: 0.62 s
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: Percentage time preprocessing: 0.96%
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: Effective parallelization: 0.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display:                                               FNiagaraShader (compiled  159 times, average 0.39 sec, max 1.15 sec, min 0.04 sec)
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display:                                               FNiagaraShader - 95.64% of total time (compiled  159 times, average 0.39 sec, max 1.15 sec, min 0.04 sec)
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 0.95% of total time (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 0.82% of total time (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 0.81% of total time (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.72% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.05.08-19.28.16:693][926]LogShaderCompilers: Display: ================================================
+[2023.05.08-19.28.16:700][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.08-19.28.16:716][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Niagara/NS_Flamethrower" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Flamethrower.uasset" SILENT=true
+[2023.05.08-19.28.16:760][926]LogSavePackage: Moving output files for package: /Game/VFX/Niagara/NS_Flamethrower
+[2023.05.08-19.28.16:760][926]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/NS_FlamethrowerDA07EF6649562C93F5E35CB32DB23719.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Flamethrower.uasset'
+[2023.05.08-19.28.16:769][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 2.86 sec)
+[2023.05.08-19.28.16:807][926]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Flamethrower.NS_Flamethrower took 0.038248 sec, no shader worker used.
+[2023.05.08-19.28.16:815][926]AssetCheck: New page: Asset Save: NS_Flamethrower
+[2023.05.08-19.28.16:815][926]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/Niagara/NS_Flamethrower.NS_Flamethrower
+[2023.05.08-19.28.16:815][926]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2023.05.08-19.28.16:815][926]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2023.05.08-19.30.03:591][401]LogEditorTransaction: Undo Move Key
+[2023.05.08-19.30.04:108][407]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.30.06:111][568]48604_NS_Flamethrower_MessageLog: System successfully compiled.
+[2023.05.08-19.31.45:231][188]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.08-19.31.49:420][467]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.08-19.31.53:011][709]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.08-19.32.01:872][350]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.08-19.32.25:686][186]Cmd: TRANSACTION UNDO
+[2023.05.08-19.32.25:686][186]LogEditorTransaction: Undo Add Gradient Stop
+[2023.05.08-19.32.26:212][192]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.32.28:215][336]48604_NS_Flamethrower_MessageLog: System successfully compiled.
+[2023.05.08-19.33.12:969][620]LogDerivedDataCache: C:/Users/craft/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:24.042 and deleted 0 files with total size 0 MiB. Scanned 12521 files in 12202 folders with total size 408 MiB.
+[2023.05.08-19.33.23:735][473]Cmd: TRANSACTION UNDO
+[2023.05.08-19.33.23:735][473]LogEditorTransaction: Undo Move Gradient Stop
+[2023.05.08-19.33.24:255][479]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.33.26:259][660]48604_NS_Flamethrower_MessageLog: System successfully compiled.
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: ================================================
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: Total job queries 470, among them cache hits 40 (8.51%)
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: Tracking 404 distinct input hashes that result in 290 distinct outputs (71.78%)
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: RAM used: 5.50 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.34%
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: Shaders Compiled: 170
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: Jobs assigned 170, completed 170 (100.00%)
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: Average time worker was idle: 124.63 s
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 1.09 s
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: Job execution time: average 0.58 s, max 2.45 s
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: Job life time (pending + execution): average 0.66 s, max 2.55
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 74.44 s
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: Jobs were issued in 166 batches (only local compilation was used), average 1.02 jobs/batch
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: Average processing rate: 2.28 jobs/sec
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: Total thread time: 65.27 s
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: Total thread preprocess time: 0.62 s
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: Percentage time preprocessing: 0.95%
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: Effective parallelization: 0.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display:                                               FNiagaraShader (compiled  162 times, average 0.39 sec, max 1.15 sec, min 0.04 sec)
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display:                                               FNiagaraShader - 95.68% of total time (compiled  162 times, average 0.39 sec, max 1.15 sec, min 0.04 sec)
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 0.95% of total time (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 0.81% of total time (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 0.80% of total time (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.71% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.05.08-19.34.00:951][149]LogShaderCompilers: Display: ================================================
+[2023.05.08-19.34.00:983][149]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.879197 sec (time since issued), 2.662519 sec (combined shader worker time).
+[2023.05.08-19.34.00:993][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.08-19.34.01:021][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Niagara/NS_Fire" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset" SILENT=true
+[2023.05.08-19.34.01:068][149]LogSavePackage: Moving output files for package: /Game/VFX/Niagara/NS_Fire
+[2023.05.08-19.34.01:068][149]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/NS_Fire0C44521240D216056D26859FC26D9A7B.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset'
+[2023.05.08-19.34.01:076][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 2.95 sec)
+[2023.05.08-19.34.01:100][149]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.024757 sec, no shader worker used.
+[2023.05.08-19.34.01:107][149]AssetCheck: New page: Asset Save: NS_Fire
+[2023.05.08-19.34.01:107][149]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire
+[2023.05.08-19.34.16:109][201]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire
+[2023.05.08-19.34.16:109][201]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire
+[2023.05.08-19.34.16:109][201]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire as actor: NiagaraActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NiagaraActor_2
+[2023.05.08-19.34.16:110][201]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire as actor: NiagaraActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NiagaraActor_2
+[2023.05.08-19.34.16:478][237]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire
+[2023.05.08-19.34.16:478][237]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire
+[2023.05.08-19.34.16:480][237]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire as actor: NiagaraActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NiagaraActor_UAID_3C7C3F2C7F9DAF8001_1309134130
+[2023.05.08-19.34.16:480][237]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire as actor: NiagaraActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NiagaraActor_UAID_3C7C3F2C7F9DAF8001_1309134130
+[2023.05.08-19.34.32:823][956]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.05.08-19.34.32:823][956]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.05.08-19.34.32:828][956]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2023.05.08-19.34.32:834][956]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2023.05.08-19.34.33:479][ 12]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.05.08-19.34.33:479][ 12]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.05.08-19.34.33:483][ 12]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_3C7C3F2C7F9DAF8001_1326135131
+[2023.05.08-19.34.33:488][ 12]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_3C7C3F2C7F9DAF8001_1326135131
+[2023.05.08-19.34.33:640][ 13]LogViewport: Scene viewport resized to 644x393, mode Windowed.
+[2023.05.08-19.34.53:305][396]Cmd: TRANSACTION UNDO
+[2023.05.08-19.34.53:305][396]LogEditorTransaction: Undo Edit input local value.
+[2023.05.08-19.34.53:484][396]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.016095 sec, no shader worker used.
+[2023.05.08-19.34.53:851][402]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.34.54:050][415]Cmd: TRANSACTION UNDO
+[2023.05.08-19.34.54:050][415]LogEditorTransaction: Undo Edit input local value.
+[2023.05.08-19.34.54:224][415]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.015772 sec, no shader worker used.
+[2023.05.08-19.34.55:299][476]Cmd: TRANSACTION UNDO
+[2023.05.08-19.34.55:299][476]LogEditorTransaction: Undo Edit input local value.
+[2023.05.08-19.34.55:477][476]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.015862 sec, no shader worker used.
+[2023.05.08-19.34.55:856][490]48604_NS_Flamethrower_MessageLog: System successfully compiled.
+[2023.05.08-19.34.55:856][490]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.35.09:984][430]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-19.35.10:007][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-19.35.10:020][430]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-19.35.10:020][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-19.35.10:101][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.05.08-19.35.12:969][611]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire
+[2023.05.08-19.35.13:048][611]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-19.35.13:074][611]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.08-19.35.13:169][611]LogViewport: Scene viewport resized to 735x1045, mode Windowed.
+[2023.05.08-19.35.13:365][617]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.35.36:285][573]Cmd: TRANSACTION UNDO
+[2023.05.08-19.35.36:285][573]LogEditorTransaction: Undo Add Gradient Stop
+[2023.05.08-19.35.36:831][579]123377_NS_Fire_MessageLog: System successfully compiled.
+[2023.05.08-19.35.38:831][740]48604_NS_Flamethrower_MessageLog: System successfully compiled.
+[2023.05.08-19.35.56:569][862]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.859070 sec (time since issued), 2.658088 sec (combined shader worker time).
+[2023.05.08-19.35.56:578][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.08-19.35.56:602][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Niagara/NS_Fire" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset" SILENT=true
+[2023.05.08-19.35.56:650][862]LogSavePackage: Moving output files for package: /Game/VFX/Niagara/NS_Fire
+[2023.05.08-19.35.56:650][862]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/NS_Fire27DDD729409E771A50B75390442CF89D.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset'
+[2023.05.08-19.35.56:658][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 3.03 sec)
+[2023.05.08-19.35.56:683][862]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.024789 sec, no shader worker used.
+[2023.05.08-19.35.56:687][862]AssetCheck: New page: Asset Save: NS_Fire
+[2023.05.08-19.35.56:687][862]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire
+[2023.05.08-19.36.06:915][533]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.848130 sec (time since issued), 2.635607 sec (combined shader worker time).
+[2023.05.08-19.36.06:924][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.08-19.36.06:954][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Niagara/NS_Fire" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset" SILENT=true
+[2023.05.08-19.36.07:001][533]LogSavePackage: Moving output files for package: /Game/VFX/Niagara/NS_Fire
+[2023.05.08-19.36.07:001][533]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/NS_Fire961BE30F42BCB69AA33FBA9D1FE03E63.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset'
+[2023.05.08-19.36.07:007][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 3.11 sec)
+[2023.05.08-19.36.07:032][533]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.024833 sec, no shader worker used.
+[2023.05.08-19.36.07:037][533]AssetCheck: New page: Asset Save: NS_Fire
+[2023.05.08-19.36.07:037][533]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire
+[2023.05.08-19.36.26:390][289]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.792939 sec (time since issued), 2.584906 sec (combined shader worker time).
+[2023.05.08-19.36.26:399][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.08-19.36.26:429][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Niagara/NS_Fire" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset" SILENT=true
+[2023.05.08-19.36.26:476][289]LogSavePackage: Moving output files for package: /Game/VFX/Niagara/NS_Fire
+[2023.05.08-19.36.26:477][289]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/NS_Fire038DE7CD470C9407F6483D8FC0CEF13B.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset'
+[2023.05.08-19.36.26:487][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 3.20 sec)
+[2023.05.08-19.36.26:513][289]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.025927 sec, no shader worker used.
+[2023.05.08-19.36.26:518][289]AssetCheck: New page: Asset Save: NS_Fire
+[2023.05.08-19.36.26:518][289]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire
+[2023.05.08-19.36.35:873][  7]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.891991 sec (time since issued), 2.675972 sec (combined shader worker time).
+[2023.05.08-19.36.35:882][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.08-19.36.35:911][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Niagara/NS_Fire" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset" SILENT=true
+[2023.05.08-19.36.35:959][  7]LogSavePackage: Moving output files for package: /Game/VFX/Niagara/NS_Fire
+[2023.05.08-19.36.35:959][  7]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/NS_Fire12931FD44B5FD5D5D6E9798921A2AC37.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset'
+[2023.05.08-19.36.35:968][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 3.28 sec)
+[2023.05.08-19.36.35:993][  7]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.024854 sec, no shader worker used.
+[2023.05.08-19.36.35:997][  7]AssetCheck: New page: Asset Save: NS_Fire
+[2023.05.08-19.36.35:997][  7]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire
+[2023.05.08-19.36.52:198][ 40]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.809467 sec (time since issued), 2.602087 sec (combined shader worker time).
+[2023.05.08-19.36.52:207][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.08-19.36.52:232][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Niagara/NS_Fire" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset" SILENT=true
+[2023.05.08-19.36.52:279][ 40]LogSavePackage: Moving output files for package: /Game/VFX/Niagara/NS_Fire
+[2023.05.08-19.36.52:279][ 40]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/NS_FireC43F20A44AA6BB4146252893EF1C8B9F.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset'
+[2023.05.08-19.36.52:288][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 3.36 sec)
+[2023.05.08-19.36.52:313][ 40]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.024966 sec, no shader worker used.
+[2023.05.08-19.36.52:317][ 40]AssetCheck: New page: Asset Save: NS_Fire
+[2023.05.08-19.36.52:317][ 40]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire
+[2023.05.08-19.36.59:403][510]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.801593 sec (time since issued), 2.592445 sec (combined shader worker time).
+[2023.05.08-19.36.59:412][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.08-19.36.59:442][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Niagara/NS_Fire" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset" SILENT=true
+[2023.05.08-19.36.59:489][510]LogSavePackage: Moving output files for package: /Game/VFX/Niagara/NS_Fire
+[2023.05.08-19.36.59:490][510]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/NS_Fire9D2A9B8E49B1054958D02B8021521EB4.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset'
+[2023.05.08-19.36.59:497][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 3.45 sec)
+[2023.05.08-19.36.59:522][510]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.025072 sec, no shader worker used.
+[2023.05.08-19.36.59:528][510]AssetCheck: New page: Asset Save: NS_Fire
+[2023.05.08-19.36.59:528][510]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: ================================================
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: Total job queries 483, among them cache hits 40 (8.28%)
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: Tracking 417 distinct input hashes that result in 299 distinct outputs (71.70%)
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: RAM used: 5.77 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.35%
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: Shaders Compiled: 179
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: Jobs assigned 179, completed 179 (100.00%)
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: Average time worker was idle: 119.86 s
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 1.09 s
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: Job execution time: average 0.57 s, max 2.45 s
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: Job life time (pending + execution): average 0.65 s, max 2.55
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 78.28 s
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: Jobs were issued in 175 batches (only local compilation was used), average 1.02 jobs/batch
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: Average processing rate: 2.29 jobs/sec
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: Total thread time: 67.68 s
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: Total thread preprocess time: 0.62 s
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: Percentage time preprocessing: 0.92%
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: Effective parallelization: 0.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display:                                               FNiagaraShader (compiled  171 times, average 0.38 sec, max 1.15 sec, min 0.04 sec)
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display:                                               FNiagaraShader - 95.83% of total time (compiled  171 times, average 0.38 sec, max 1.15 sec, min 0.04 sec)
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 0.91% of total time (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 0.78% of total time (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 0.78% of total time (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.69% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.05.08-19.37.06:170][957]LogShaderCompilers: Display: ================================================
+[2023.05.08-19.37.06:189][957]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.345853 sec (time since issued), 2.309927 sec (combined shader worker time).
+[2023.05.08-19.37.06:198][957]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.08-19.37.06:222][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Niagara/NS_Fire" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset" SILENT=true
+[2023.05.08-19.37.06:269][957]LogSavePackage: Moving output files for package: /Game/VFX/Niagara/NS_Fire
+[2023.05.08-19.37.06:269][957]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/NS_Fire4E260AC94A9453BC015DFE9B1332DC0C.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset'
+[2023.05.08-19.37.06:276][957]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 3.52 sec)
+[2023.05.08-19.37.06:301][957]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.024680 sec, no shader worker used.
+[2023.05.08-19.37.06:306][957]AssetCheck: New page: Asset Save: NS_Fire
+[2023.05.08-19.37.06:306][957]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire
+[2023.05.08-19.37.14:214][533]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.398570 sec (time since issued), 2.362366 sec (combined shader worker time).
+[2023.05.08-19.37.14:224][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.08-19.37.14:253][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Niagara/NS_Fire" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset" SILENT=true
+[2023.05.08-19.37.14:300][533]LogSavePackage: Moving output files for package: /Game/VFX/Niagara/NS_Fire
+[2023.05.08-19.37.14:300][533]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/NS_Fire041FA21840A265163D2B56B7E3E39A0B.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset'
+[2023.05.08-19.37.14:309][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 3.61 sec)
+[2023.05.08-19.37.14:333][533]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.024334 sec, no shader worker used.
+[2023.05.08-19.37.14:338][533]AssetCheck: New page: Asset Save: NS_Fire
+[2023.05.08-19.37.14:338][533]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire
+[2023.05.08-19.37.39:278][308]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.815385 sec (time since issued), 2.377699 sec (combined shader worker time).
+[2023.05.08-19.37.39:287][308]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.08-19.37.39:315][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Niagara/NS_Fire" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset" SILENT=true
+[2023.05.08-19.37.39:362][308]LogSavePackage: Moving output files for package: /Game/VFX/Niagara/NS_Fire
+[2023.05.08-19.37.39:362][308]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/NS_Fire6E8FE32F42875B441E0E72910BD30D75.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset'
+[2023.05.08-19.37.39:371][308]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 3.69 sec)
+[2023.05.08-19.37.39:396][308]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.025137 sec, no shader worker used.
+[2023.05.08-19.37.39:401][308]AssetCheck: New page: Asset Save: NS_Fire
+[2023.05.08-19.37.39:401][308]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire
+[2023.05.08-19.38.05:014][ 90]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.839364 sec (time since issued), 2.348697 sec (combined shader worker time).
+[2023.05.08-19.38.05:024][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.08-19.38.05:045][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Niagara/NS_Fire" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset" SILENT=true
+[2023.05.08-19.38.05:093][ 90]LogSavePackage: Moving output files for package: /Game/VFX/Niagara/NS_Fire
+[2023.05.08-19.38.05:093][ 90]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/NS_Fire64FB05F54DC804B711A9118BF6C49DB2.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset'
+[2023.05.08-19.38.05:101][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 3.77 sec)
+[2023.05.08-19.38.05:125][ 90]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.024553 sec, no shader worker used.
+[2023.05.08-19.38.05:131][ 90]AssetCheck: New page: Asset Save: NS_Fire
+[2023.05.08-19.38.05:131][ 90]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire
+[2023.05.08-19.38.15:025][774]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.871787 sec (time since issued), 2.375981 sec (combined shader worker time).
+[2023.05.08-19.38.15:034][774]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.08-19.38.15:055][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Niagara/NS_Fire" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset" SILENT=true
+[2023.05.08-19.38.15:102][774]LogSavePackage: Moving output files for package: /Game/VFX/Niagara/NS_Fire
+[2023.05.08-19.38.15:102][774]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/NS_Fire74E7788644ABFC532CD4B1B402C83187.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset'
+[2023.05.08-19.38.15:112][774]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 3.85 sec)
+[2023.05.08-19.38.15:137][774]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.024610 sec, no shader worker used.
+[2023.05.08-19.38.15:142][774]AssetCheck: New page: Asset Save: NS_Fire
+[2023.05.08-19.38.15:142][774]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire
+[2023.05.08-19.38.19:349][ 24]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.389930 sec (time since issued), 2.419915 sec (combined shader worker time).
+[2023.05.08-19.38.19:358][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.08-19.38.19:382][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Niagara/NS_Fire" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset" SILENT=true
+[2023.05.08-19.38.19:429][ 24]LogSavePackage: Moving output files for package: /Game/VFX/Niagara/NS_Fire
+[2023.05.08-19.38.19:429][ 24]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/NS_Fire4EB03BE245EF04C5F3977E879354B72E.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/VFX/Niagara/NS_Fire.uasset'
+[2023.05.08-19.38.19:439][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 3.93 sec)
+[2023.05.08-19.38.19:463][ 24]LogNiagara: Compiling System NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire took 0.024728 sec, no shader worker used.
+[2023.05.08-19.38.19:468][ 24]AssetCheck: New page: Asset Save: NS_Fire
+[2023.05.08-19.38.19:468][ 24]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/Niagara/NS_Fire.NS_Fire
+[2023.05.08-19.38.39:042][657]Cmd: DELETE
+[2023.05.08-19.38.39:042][657]Cmd: ACTOR DELETE
+[2023.05.08-19.38.39:044][657]LogEditorActor: Deleted Actor: NiagaraActor
+[2023.05.08-19.38.39:130][657]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NiagaraActor_UAID_3C7C3F2C7F9DAE8001_1077492953 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/SQ/WGR51LNTBREGTWK36NGWVL.PackageMetaData in its package
+[2023.05.08-19.38.39:170][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.05.08-19.38.39:182][657]LogEditorActor: Deleted 1 Actors (0.139 secs)
+[2023.05.08-19.38.39:208][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.08-19.38.41:273][791]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-19.38.41:275][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-19.38.41:283][791]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-19.38.41:283][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-19.38.41:309][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.05.08-19.38.41:933][834]LogSlate: Window 'NS_Flamethrower' being destroyed
+[2023.05.08-19.38.41:944][834]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-19.38.41:945][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-19.38.41:955][834]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-19.38.41:955][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-19.38.41:979][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.08-19.38.43:731][942]LogViewport: Scene viewport resized to 644x393, mode Windowed.
+[2023.05.08-19.38.44:169][970]Cmd: DELETE
+[2023.05.08-19.38.44:169][970]Cmd: ACTOR DELETE
+[2023.05.08-19.38.44:170][970]LogEditorActor: Deleted Actor: BP_ThirdPersonCharacter_C
+[2023.05.08-19.38.44:199][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.05.08-19.38.44:201][970]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2023.05.08-19.38.49:111][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.05.08-19.38.49:114][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.08-19.38.49:171][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.05.08-19.38.49:184][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.05.08-19.38.49:196][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.08-19.38.49:389][471]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/XU/A4HY34DWUEMN9IFRZ69QGT
+[2023.05.08-19.38.49:389][471]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/A4HY34DWUEMN9IFRZ69QGT3715F9D844CFC6DDEE86B29FC125D092.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/XU/A4HY34DWUEMN9IFRZ69QGT.uasset'
+[2023.05.08-19.38.49:394][471]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SI/KIWZTML0QM3IM8D1T32INO
+[2023.05.08-19.38.49:394][471]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/KIWZTML0QM3IM8D1T32INO632C94A0430D3049A0D606A0F6AC139A.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SI/KIWZTML0QM3IM8D1T32INO.uasset'
+[2023.05.08-19.38.49:426][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 312 ms (total: 4.24 sec)
+[2023.05.08-19.38.49:431][471]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.08-19.38.49:431][471]LogContentValidation: Display: Validating /Script/Niagara.NiagaraActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NiagaraActor_UAID_3C7C3F2C7F9DAD8001_1568540776
+[2023.05.08-19.38.49:431][471]LogContentValidation: Display: Validating /Game/Blueprints/AI/BP_Flamer.BP_Flamer_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Flamer_C_UAID_3C7C3F2C7F9DAD8001_1548215775
