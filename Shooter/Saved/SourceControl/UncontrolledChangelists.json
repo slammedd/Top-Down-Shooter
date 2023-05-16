@@ -154,6 +154,8 @@
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/StylizedArmyPackA/Soldiers_Animations/Death_01_Anim.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/Animations/AM_Damage2.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/Animations/AM_Death.uasset",
+				"H:/Repos/Top-Down-Shooter/Shooter/Content/Blueprints/AI/Tasks/BTTask_Dead.uasset",
+				"H:/Repos/Top-Down-Shooter/Shooter/Content/Materials/MAT_Tracer.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/Blueprints/AI/Tasks/BTT_Shoot.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/Blueprints/AI/Tasks/BTT_Stop_Shooting.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/Blueprints/AI/Tasks/BTT_Roam.uasset",
