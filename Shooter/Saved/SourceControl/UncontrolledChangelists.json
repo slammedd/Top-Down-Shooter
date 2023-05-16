@@ -156,6 +156,8 @@
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/Animations/AM_Death.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/Blueprints/AI/Tasks/BTTask_Dead.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/Materials/MAT_Tracer.uasset",
+				"H:/Repos/Top-Down-Shooter/Shooter/Content/Models/Bullet_Tracer.uasset",
+				"H:/Repos/Top-Down-Shooter/Shooter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/KJ/9XGSQQ4QHOBCVGK5R3W4RL.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/Blueprints/AI/Tasks/BTT_Shoot.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/Blueprints/AI/Tasks/BTT_Stop_Shooting.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/Blueprints/AI/Tasks/BTT_Roam.uasset",
