@@ -1649,3 +1649,688 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.05.20-12.19.39:779][391]AssetCheck: New page: Asset Save: multiple assets
 [2023.05.20-12.19.39:780][391]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Main.LVL_Main
 [2023.05.20-12.19.39:780][391]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Models/Corrugated_Sheet.Corrugated_Sheet
+[2023.05.20-12.23.27:071][518]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/craft/Desktop/Barbed Wire.fbx)
+[2023.05.20-12.23.27:076][518]LogFbx: Loading FBX Scene from C:/Users/craft/Desktop/Barbed Wire.fbx
+[2023.05.20-12.23.27:081][518]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.20-12.23.28:220][518]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.20-12.23.28:265][518]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\craft\Documents\Game Design L3\Unit 11 3D modelling\Textures\Wires\Rust_Texture.png
+[2023.05.20-12.23.28:279][518]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2023.05.20-12.23.28:279][518]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.05.20-12.23.28:285][518]LogFbx: Display: Triangulating static mesh Hedra001
+[2023.05.20-12.23.28:290][518]LogTexture: Display: Building textures: /Game/Models/Rust_Texture2.Rust_Texture2 (TFO_AutoDXT, 1000x1000 x1x1x1) (Required Memory Estimate: 82.670726 MB), EncodeSpeed: Fast
+[2023.05.20-12.23.28:293][518]LogStaticMesh: Display: Building static mesh Barbed_Wire...
+[2023.05.20-12.23.28:330][518]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Barbed_Wire.Barbed_Wire
+[2023.05.20-12.23.28:332][518]LogStaticMesh: Warning: Barbed_Wire has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.05.20-12.23.28:332][518]LogStaticMesh: Warning: Barbed_Wire has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.20-12.23.28:345][518]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.20-12.23.28:345][518]FBXImport: Warning: Barbed_Wire has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2023.05.20-12.23.28:345][518]FBXImport: Warning: Barbed_Wire has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.05.20-12.23.28:397][519]LogAutomationController: Ignoring very large delta of 4.21 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.05.20-12.23.29:279][592]LogSlate: Window 'Message Log' being destroyed
+[2023.05.20-12.23.29:293][592]LogSlate: Window 'Message Log' being destroyed
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: ================================================
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: Total job queries 398, among them cache hits 117 (29.40%)
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: Tracking 277 distinct input hashes that result in 124 distinct outputs (44.77%)
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: RAM used: 1.91 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.12%
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: Shaders Compiled: 16
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: Jobs assigned 20, completed 16 (80.00%)
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: Average time worker was idle: 233.57 s
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: Time job spent in pending queue: average 0.47 s, longest 1.29 s
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: Job execution time: average 0.67 s, max 0.84 s
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: Job life time (pending + execution): average 1.03 s, max 1.80
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.36 s
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: Jobs were issued in 20 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: Average processing rate: 4.76 jobs/sec
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: Total thread time: 8.77 s
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: Total thread preprocess time: 0.48 s
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: Percentage time preprocessing: 5.43%
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: Effective parallelization: 2.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.65 sec, max 0.65 sec, min 0.64 sec)
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.60 sec, max 0.61 sec, min 0.60 sec)
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.59 sec, max 0.59 sec, min 0.59 sec)
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.72% of total time (compiled    2 times, average 0.65 sec, max 0.65 sec, min 0.64 sec)
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.79% of total time (compiled    2 times, average 0.60 sec, max 0.61 sec, min 0.60 sec)
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.89% of total time (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.84% of total time (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 6.72% of total time (compiled    1 times, average 0.59 sec, max 0.59 sec, min 0.59 sec)
+[2023.05.20-12.23.30:375][691]LogShaderCompilers: Display: ================================================
+[2023.05.20-12.23.32:913][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.05.20-12.23.33:908][924]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.20-12.23.33:924][924]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Models/02_-_Default.02_-_Default
+	Asset Type: Material
+	Asset Name: /Game/Models/01_-_Default.01_-_Default
+	Asset Type: Material
+[2023.05.20-12.23.34:097][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.05.20-12.23.34:106][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.05.20-12.23.34:114][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.05.20-12.23.34:896][991]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Barbed_Wire.Barbed_Wire
+[2023.05.20-12.23.34:896][991]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Barbed_Wire.Barbed_Wire
+[2023.05.20-12.23.34:897][991]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Barbed_Wire.Barbed_Wire as actor: StaticMeshActor /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.StaticMeshActor_24
+[2023.05.20-12.23.35:327][ 33]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Barbed_Wire.Barbed_Wire
+[2023.05.20-12.23.35:327][ 33]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Barbed_Wire.Barbed_Wire
+[2023.05.20-12.23.35:328][ 33]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Barbed_Wire.Barbed_Wire as actor: StaticMeshActor /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.StaticMeshActor_25
+[2023.05.20-12.23.35:619][ 62]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.20-12.23.39:695][512]Cmd: DELETE
+[2023.05.20-12.23.39:695][512]Cmd: ACTOR DELETE
+[2023.05.20-12.23.39:697][512]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.20-12.23.39:705][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.05.20-12.23.39:707][512]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.05.20-12.23.42:844][831]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Barbed_Wire.Barbed_Wire
+[2023.05.20-12.23.42:844][831]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Barbed_Wire.Barbed_Wire
+[2023.05.20-12.23.42:844][831]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Barbed_Wire.Barbed_Wire as actor: StaticMeshActor /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.StaticMeshActor_26
+[2023.05.20-12.23.43:932][956]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Barbed_Wire.Barbed_Wire
+[2023.05.20-12.23.43:932][956]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Barbed_Wire.Barbed_Wire
+[2023.05.20-12.23.43:933][956]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Barbed_Wire.Barbed_Wire as actor: StaticMeshActor /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.StaticMeshActor_27
+[2023.05.20-12.23.46:363][181]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Barbed_Wire.Barbed_Wire
+[2023.05.20-12.23.46:410][181]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-12.23.46:665][181]LogViewport: Scene viewport resized to 1677x1272, mode Windowed.
+[2023.05.20-12.23.47:155][207]LogViewport: Scene viewport resized to 1202x952, mode Windowed.
+[2023.05.20-12.23.54:216][730]LogEditorFactories: Performing atomic reimport of [C:/Users/craft/Desktop/Barbed Wire.fbx]
+[2023.05.20-12.23.54:221][730]LogFbx: Loading FBX Scene from C:/Users/craft/Desktop/Barbed Wire.fbx
+[2023.05.20-12.23.54:227][730]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.20-12.23.54:248][730]LogFbx: Display: Triangulating static mesh Hedra001
+[2023.05.20-12.23.54:263][730]LogStaticMesh: Display: Building static mesh Barbed_Wire...
+[2023.05.20-12.23.54:327][730]LogStaticMesh: Built static mesh [0.06s] /Game/Models/Barbed_Wire.Barbed_Wire
+[2023.05.20-12.23.54:336][730]LogStaticMesh: Warning: Barbed_Wire has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.05.20-12.23.54:336][730]LogStaticMesh: Warning: Barbed_Wire has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.20-12.23.54:343][730]LogEditorFactories: -- imported successfully
+[2023.05.20-12.23.54:344][730]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.20-12.23.54:344][730]FBXImport: Warning: Barbed_Wire has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2023.05.20-12.23.54:344][730]FBXImport: Warning: Barbed_Wire has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.05.20-12.23.54:664][737]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-12.23.54:755][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Barbed_Wire" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Models/Barbed_Wire.uasset" SILENT=true
+[2023.05.20-12.23.54:759][737]LogSavePackage: Moving output files for package: /Game/Models/Barbed_Wire
+[2023.05.20-12.23.54:759][737]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/Barbed_Wire7E0819434204622ED4DD2095B613B0CB.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Models/Barbed_Wire.uasset'
+[2023.05.20-12.23.54:808][737]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 2.13 sec)
+[2023.05.20-12.23.54:812][737]AssetCheck: New page: Asset Save: Barbed_Wire
+[2023.05.20-12.23.54:812][737]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Models/Barbed_Wire.Barbed_Wire
+[2023.05.20-12.24.01:702][168]LogEditorFactories: Performing atomic reimport of [C:/Users/craft/Desktop/Barbed Wire.fbx]
+[2023.05.20-12.24.01:707][168]LogFbx: Loading FBX Scene from C:/Users/craft/Desktop/Barbed Wire.fbx
+[2023.05.20-12.24.01:713][168]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.20-12.24.01:746][168]LogFbx: Display: Triangulating static mesh Hedra001
+[2023.05.20-12.24.01:760][168]LogStaticMesh: Display: Building static mesh Barbed_Wire...
+[2023.05.20-12.24.01:821][168]LogStaticMesh: Built static mesh [0.06s] /Game/Models/Barbed_Wire.Barbed_Wire
+[2023.05.20-12.24.01:829][168]LogStaticMesh: Warning: Barbed_Wire has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.05.20-12.24.01:829][168]LogStaticMesh: Warning: Barbed_Wire has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.20-12.24.01:836][168]LogEditorFactories: -- imported successfully
+[2023.05.20-12.24.01:837][168]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.20-12.24.01:837][168]FBXImport: Warning: Barbed_Wire has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2023.05.20-12.24.01:837][168]FBXImport: Warning: Barbed_Wire has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.05.20-12.24.02:732][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-12.24.02:782][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Barbed_Wire" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Models/Barbed_Wire.uasset" SILENT=true
+[2023.05.20-12.24.02:785][211]LogSavePackage: Moving output files for package: /Game/Models/Barbed_Wire
+[2023.05.20-12.24.02:785][211]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/Barbed_WireDAD687B6494ED82B8150CC95E7FF2069.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Models/Barbed_Wire.uasset'
+[2023.05.20-12.24.02:792][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 2.19 sec)
+[2023.05.20-12.24.02:795][211]AssetCheck: New page: Asset Save: Barbed_Wire
+[2023.05.20-12.24.02:795][211]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Models/Barbed_Wire.Barbed_Wire
+[2023.05.20-12.24.03:579][246]LogViewport: Scene viewport resized to 1677x1272, mode Windowed.
+[2023.05.20-12.24.55:700][832]LogSlate: Window 'Message' being destroyed
+[2023.05.20-12.24.55:705][832]Message dialog closed, result: Yes, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/Models/Barbed_Wire
+[2023.05.20-12.24.55:706][832]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/craft/Desktop/Barbed Wire.fbx)
+[2023.05.20-12.24.55:706][832]LogEditorFactories: Performing atomic reimport of [C:/Users/craft/Desktop/Barbed Wire.fbx]
+[2023.05.20-12.24.55:711][832]LogFbx: Loading FBX Scene from C:/Users/craft/Desktop/Barbed Wire.fbx
+[2023.05.20-12.24.55:716][832]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.20-12.24.55:747][832]LogFbx: Display: Triangulating static mesh Hedra001
+[2023.05.20-12.24.55:761][832]LogStaticMesh: Display: Building static mesh Barbed_Wire...
+[2023.05.20-12.24.55:823][832]LogStaticMesh: Built static mesh [0.06s] /Game/Models/Barbed_Wire.Barbed_Wire
+[2023.05.20-12.24.55:830][832]LogStaticMesh: Warning: Barbed_Wire has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.05.20-12.24.55:830][832]LogStaticMesh: Warning: Barbed_Wire has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.20-12.24.56:921][832]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2023.05.20-12.24.56:927][832]LogEditorFactories: -- imported successfully
+[2023.05.20-12.24.56:928][832]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.20-12.24.56:928][832]FBXImport: Warning: Barbed_Wire has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2023.05.20-12.24.56:928][832]FBXImport: Warning: Barbed_Wire has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.05.20-12.24.57:011][833]LogAutomationController: Ignoring very large delta of 4.15 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.05.20-12.25.03:892][450]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.05.20-12.25.03:899][450]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.05.20-12.25.03:910][451]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.05.20-12.25.06:909][808]LogContentBrowser: Attempting asset rename: NewMaterial -> MAT_Barbed_Wire
+[2023.05.20-12.25.06:909][808]LogContentBrowser: End creating deferred item NewMaterial
+[2023.05.20-12.25.07:071][827]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/MAT_Barbed_Wire.MAT_Barbed_Wire
+[2023.05.20-12.25.07:073][827]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-12.25.07:156][827]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.20-12.25.07:156][827]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.20-12.25.07:156][827]MaterialEditorStats: Shader Count: 0
+[2023.05.20-12.25.07:161][827]LogViewport: Scene viewport resized to 751x634, mode Windowed.
+[2023.05.20-12.25.08:080][888]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.05.20-12.25.08:080][888]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.05.20-12.25.08:080][888]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.20-12.25.08:080][888]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.20-12.25.08:080][888]MaterialEditorStats: Shader Count: 4
+[2023.05.20-12.25.17:796][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-12.25.17:820][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Textures/Rust_Texture2" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Materials/Textures/Rust_Texture2.uasset" SILENT=true
+[2023.05.20-12.25.17:822][542]LogSavePackage: Moving output files for package: /Game/Materials/Textures/Rust_Texture2
+[2023.05.20-12.25.17:822][542]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/Rust_Texture20C5F43F64373368E0D933EB51278AE9A.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Materials/Textures/Rust_Texture2.uasset'
+[2023.05.20-12.25.17:828][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 2.22 sec)
+[2023.05.20-12.25.17:846][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.05.20-12.25.17:855][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.05.20-12.25.17:864][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.05.20-12.25.17:878][542]AssetCheck: New page: Asset Save: Rust_Texture2
+[2023.05.20-12.25.17:878][542]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Materials/Textures/Rust_Texture2.Rust_Texture2
+[2023.05.20-12.25.20:081][693]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.20-12.25.20:081][693]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.20-12.25.20:081][693]MaterialEditorStats: Shader Count: 0
+[2023.05.20-12.25.20:137][695]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.05.20-12.25.20:137][695]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.05.20-12.25.20:137][695]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.20-12.25.20:137][695]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.20-12.25.20:137][695]MaterialEditorStats: Shader Count: 4
+[2023.05.20-12.25.21:204][770]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.20-12.25.21:204][770]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.25.21:204][770]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.25.21:204][770]MaterialEditorStats: Shader Count: 0
+[2023.05.20-12.25.21:658][798]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.20-12.25.21:658][798]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.25.21:658][798]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.25.21:658][798]MaterialEditorStats: Shader Count: 1
+[2023.05.20-12.25.21:871][811]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.25.21:871][811]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.20-12.25.21:871][811]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.25.21:871][811]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.25.21:871][811]MaterialEditorStats: Shader Count: 3
+[2023.05.20-12.25.21:973][817]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.05.20-12.25.21:973][817]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.25.21:973][817]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.20-12.25.21:973][817]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.25.21:973][817]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.25.21:973][817]MaterialEditorStats: Shader Count: 4
+[2023.05.20-12.25.22:773][876]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.20-12.25.22:773][876]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.25.22:773][876]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.25.22:773][876]MaterialEditorStats: Shader Count: 0
+[2023.05.20-12.25.22:802][878]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.05.20-12.25.22:802][878]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.25.22:802][878]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.20-12.25.22:802][878]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.25.22:802][878]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.25.22:802][878]MaterialEditorStats: Shader Count: 4
+[2023.05.20-12.25.24:158][980]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.20-12.25.24:158][980]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.25.24:158][980]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.25.24:158][980]MaterialEditorStats: Shader Count: 0
+[2023.05.20-12.25.24:614][ 10]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.20-12.25.24:614][ 10]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.25.24:614][ 10]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.25.24:614][ 10]MaterialEditorStats: Shader Count: 1
+[2023.05.20-12.25.24:820][ 24]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.25.24:820][ 24]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.20-12.25.24:820][ 24]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.25.24:820][ 24]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.25.24:820][ 24]MaterialEditorStats: Shader Count: 3
+[2023.05.20-12.25.24:923][ 32]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.05.20-12.25.24:923][ 32]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.25.24:923][ 32]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.20-12.25.24:923][ 32]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.25.24:923][ 32]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.25.24:923][ 32]MaterialEditorStats: Shader Count: 4
+[2023.05.20-12.25.26:530][158]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.20-12.25.26:530][158]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.25.26:530][158]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.25.26:530][158]MaterialEditorStats: Shader Count: 0
+[2023.05.20-12.25.26:552][160]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.05.20-12.25.26:552][160]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.25.26:552][160]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.20-12.25.26:552][160]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.25.26:552][160]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.25.26:552][160]MaterialEditorStats: Shader Count: 4
+[2023.05.20-12.25.28:439][303]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.20-12.25.28:439][303]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.25.28:439][303]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.25.28:439][303]MaterialEditorStats: Shader Count: 0
+[2023.05.20-12.25.28:923][334]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.20-12.25.28:923][334]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.25.28:923][334]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.25.28:923][334]MaterialEditorStats: Shader Count: 1
+[2023.05.20-12.25.29:107][347]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.25.29:107][347]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.20-12.25.29:107][347]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.25.29:107][347]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.25.29:107][347]MaterialEditorStats: Shader Count: 3
+[2023.05.20-12.25.29:211][353]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.05.20-12.25.29:211][353]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.25.29:211][353]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.20-12.25.29:211][353]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.25.29:211][353]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.25.29:211][353]MaterialEditorStats: Shader Count: 4
+[2023.05.20-12.25.29:962][408]LogMaterialEditor: Saving and Compiling material MAT_Barbed_Wire
+[2023.05.20-12.25.30:390][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.05.20-12.25.31:064][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.05.20-12.25.31:073][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-12.25.32:899][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MAT_Barbed_Wire" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Materials/MAT_Barbed_Wire.uasset" SILENT=true
+[2023.05.20-12.25.32:912][408]LogSavePackage: Moving output files for package: /Game/Materials/MAT_Barbed_Wire
+[2023.05.20-12.25.32:912][408]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/MAT_Barbed_Wire139D5D884637930A8612519BC2217BA5.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Materials/MAT_Barbed_Wire.uasset'
+[2023.05.20-12.25.32:919][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.84 sec (total: 4.07 sec)
+[2023.05.20-12.25.32:922][408]AssetCheck: New page: Asset Save: MAT_Barbed_Wire
+[2023.05.20-12.25.32:922][408]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/MAT_Barbed_Wire.MAT_Barbed_Wire
+[2023.05.20-12.25.32:923][408]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.05.20-12.25.32:923][408]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.25.32:923][408]MaterialEditorStats: MaxSampler: 267 instructions
+[2023.05.20-12.25.32:923][408]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.20-12.25.32:923][408]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.25.32:923][408]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.25.32:923][408]MaterialEditorStats: Shader Count: 16
+[2023.05.20-12.25.32:930][409]LogAutomationController: Ignoring very large delta of 2.97 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.05.20-12.26.10:438][631]LogSlate: Window 'Message' being destroyed
+[2023.05.20-12.26.10:444][631]Message dialog closed, result: Yes, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/Models/Barbed_Wire
+[2023.05.20-12.26.10:444][631]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/craft/Desktop/Barbed Wire.fbx)
+[2023.05.20-12.26.10:445][631]LogEditorFactories: Performing atomic reimport of [C:/Users/craft/Desktop/Barbed Wire.fbx]
+[2023.05.20-12.26.10:450][631]LogFbx: Loading FBX Scene from C:/Users/craft/Desktop/Barbed Wire.fbx
+[2023.05.20-12.26.10:454][631]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.20-12.26.10:485][631]LogFbx: Display: Triangulating static mesh Hedra001
+[2023.05.20-12.26.10:500][631]LogStaticMesh: Display: Building static mesh Barbed_Wire...
+[2023.05.20-12.26.10:568][631]LogStaticMesh: Built static mesh [0.07s] /Game/Models/Barbed_Wire.Barbed_Wire
+[2023.05.20-12.26.10:577][631]LogStaticMesh: Warning: Barbed_Wire has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.05.20-12.26.10:577][631]LogStaticMesh: Warning: Barbed_Wire has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.20-12.26.10:584][631]LogEditorFactories: -- imported successfully
+[2023.05.20-12.26.10:584][631]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.20-12.26.10:584][631]FBXImport: Warning: Barbed_Wire has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2023.05.20-12.26.10:584][631]FBXImport: Warning: Barbed_Wire has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.05.20-12.26.10:683][632]LogAutomationController: Ignoring very large delta of 2.35 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.05.20-12.26.13:201][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-12.26.13:240][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Barbed_Wire" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Models/Barbed_Wire.uasset" SILENT=true
+[2023.05.20-12.26.13:243][804]LogSavePackage: Moving output files for package: /Game/Models/Barbed_Wire
+[2023.05.20-12.26.13:244][804]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/Barbed_Wire8BD0579F4D5A73B98D2546B18EF88845.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Models/Barbed_Wire.uasset'
+[2023.05.20-12.26.13:251][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 4.12 sec)
+[2023.05.20-12.26.13:254][804]AssetCheck: New page: Asset Save: Barbed_Wire
+[2023.05.20-12.26.13:254][804]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Models/Barbed_Wire.Barbed_Wire
+[2023.05.20-12.26.16:431][ 45]LogViewport: Scene viewport resized to 1202x952, mode Windowed.
+[2023.05.20-12.26.23:140][532]LogViewport: Scene viewport resized to 536x474, mode Windowed.
+[2023.05.20-12.26.29:488][ 11]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.20-12.26.29:488][ 11]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.26.29:488][ 11]MaterialEditorStats: User interpolators: 12/12 Scalars (3/4 Vectors) (TexCoords: 12, Custom: 0)
+[2023.05.20-12.26.29:488][ 11]MaterialEditorStats: Shader Count: 0
+[2023.05.20-12.26.30:080][ 51]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.20-12.26.30:080][ 51]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.26.30:080][ 51]MaterialEditorStats: User interpolators: 12/12 Scalars (3/4 Vectors) (TexCoords: 12, Custom: 0)
+[2023.05.20-12.26.30:080][ 51]MaterialEditorStats: Shader Count: 1
+[2023.05.20-12.26.30:383][ 71]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.05.20-12.26.30:383][ 71]MaterialEditorStats: Base pass vertex shader: 273 instructions
+[2023.05.20-12.26.30:383][ 71]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.20-12.26.30:383][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.26.30:383][ 71]MaterialEditorStats: User interpolators: 12/12 Scalars (3/4 Vectors) (TexCoords: 12, Custom: 0)
+[2023.05.20-12.26.30:383][ 71]MaterialEditorStats: Shader Count: 4
+[2023.05.20-12.26.30:384][ 71]LogShaderCompilers: Display: ================================================
+[2023.05.20-12.26.30:384][ 71]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.20-12.26.30:384][ 71]LogShaderCompilers: Display: Total job queries 484, among them cache hits 163 (33.68%)
+[2023.05.20-12.26.30:384][ 71]LogShaderCompilers: Display: Tracking 315 distinct input hashes that result in 140 distinct outputs (44.44%)
+[2023.05.20-12.26.30:384][ 71]LogShaderCompilers: Display: RAM used: 2.15 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.13%
+[2023.05.20-12.26.30:384][ 71]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.20-12.26.30:384][ 71]LogShaderCompilers: Display: Shaders Compiled: 52
+[2023.05.20-12.26.30:384][ 71]LogShaderCompilers: Display: Jobs assigned 54, completed 52 (96.30%)
+[2023.05.20-12.26.30:384][ 71]LogShaderCompilers: Display: Average time worker was idle: 88.70 s
+[2023.05.20-12.26.30:384][ 71]LogShaderCompilers: Display: Time job spent in pending queue: average 0.30 s, longest 1.29 s
+[2023.05.20-12.26.30:384][ 71]LogShaderCompilers: Display: Job execution time: average 0.63 s, max 0.84 s
+[2023.05.20-12.26.30:384][ 71]LogShaderCompilers: Display: Job life time (pending + execution): average 0.91 s, max 1.80
+[2023.05.20-12.26.30:384][ 71]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.27 s
+[2023.05.20-12.26.30:384][ 71]LogShaderCompilers: Display: Jobs were issued in 54 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.20-12.26.30:384][ 71]LogShaderCompilers: Display: Average processing rate: 5.06 jobs/sec
+[2023.05.20-12.26.30:384][ 71]LogShaderCompilers: Display: Total thread time: 26.78 s
+[2023.05.20-12.26.30:384][ 71]LogShaderCompilers: Display: Total thread preprocess time: 1.45 s
+[2023.05.20-12.26.30:385][ 71]LogShaderCompilers: Display: Percentage time preprocessing: 5.43%
+[2023.05.20-12.26.30:385][ 71]LogShaderCompilers: Display: Effective parallelization: 2.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.05.20-12.26.30:385][ 71]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.20-12.26.30:385][ 71]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.64 sec, max 0.65 sec, min 0.63 sec)
+[2023.05.20-12.26.30:385][ 71]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    7 times, average 0.59 sec, max 0.61 sec, min 0.57 sec)
+[2023.05.20-12.26.30:385][ 71]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.58 sec, max 0.60 sec, min 0.57 sec)
+[2023.05.20-12.26.30:385][ 71]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.58 sec, max 0.60 sec, min 0.56 sec)
+[2023.05.20-12.26.30:385][ 71]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.57 sec, max 0.59 sec, min 0.55 sec)
+[2023.05.20-12.26.30:385][ 71]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.20-12.26.30:385][ 71]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.80% of total time (compiled    7 times, average 0.64 sec, max 0.65 sec, min 0.63 sec)
+[2023.05.20-12.26.30:385][ 71]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.47% of total time (compiled    7 times, average 0.59 sec, max 0.61 sec, min 0.57 sec)
+[2023.05.20-12.26.30:385][ 71]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.67% of total time (compiled    7 times, average 0.52 sec, max 0.54 sec, min 0.51 sec)
+[2023.05.20-12.26.30:385][ 71]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.48% of total time (compiled    7 times, average 0.32 sec, max 0.33 sec, min 0.32 sec)
+[2023.05.20-12.26.30:385][ 71]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.37% of total time (compiled    2 times, average 0.58 sec, max 0.60 sec, min 0.57 sec)
+[2023.05.20-12.26.30:385][ 71]LogShaderCompilers: Display: ================================================
+[2023.05.20-12.26.32:014][189]LogMaterial: Warning: [AssetLog] /Engine/Transient.MAT_Barbed_Wire (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Only 8 texture coordinate sets can be used by this feature level, currently using 101
+
+[2023.05.20-12.26.32:016][189]MaterialEditorStats: Error: [SM6] (Node TextureSample) Only 8 texture coordinate sets can be used by this feature level, currently using 101
+[2023.05.20-12.26.35:876][497]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.20-12.26.35:876][497]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.26.35:876][497]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.26.35:876][497]MaterialEditorStats: Shader Count: 0
+[2023.05.20-12.26.35:906][499]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.05.20-12.26.35:906][499]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.26.35:906][499]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.20-12.26.35:906][499]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.26.35:906][499]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.26.35:906][499]MaterialEditorStats: Shader Count: 4
+[2023.05.20-12.26.40:196][827]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.20-12.26.40:196][827]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.26.40:196][827]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.26.40:196][827]MaterialEditorStats: Shader Count: 0
+[2023.05.20-12.26.40:235][829]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.05.20-12.26.40:235][829]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.26.40:235][829]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.20-12.26.40:235][829]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.26.40:235][829]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.26.40:235][829]MaterialEditorStats: Shader Count: 4
+[2023.05.20-12.26.42:881][ 29]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.20-12.26.42:882][ 29]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.26.42:882][ 29]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.26.42:882][ 29]MaterialEditorStats: Shader Count: 0
+[2023.05.20-12.26.42:901][ 31]MaterialEditorStats: Base pass shader: 218 instructions
+[2023.05.20-12.26.42:901][ 31]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.26.42:901][ 31]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.20-12.26.42:901][ 31]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.26.42:901][ 31]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.26.42:901][ 31]MaterialEditorStats: Shader Count: 4
+[2023.05.20-12.26.47:551][386]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.20-12.26.47:551][386]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.26.47:551][386]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.26.47:551][386]MaterialEditorStats: Shader Count: 0
+[2023.05.20-12.26.48:751][466]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.26.48:751][466]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.20-12.26.48:751][466]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.26.48:751][466]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.26.48:751][466]MaterialEditorStats: Shader Count: 2
+[2023.05.20-12.26.48:958][481]MaterialEditorStats: Base pass shader: 219 instructions
+[2023.05.20-12.26.48:958][481]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.26.48:958][481]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.20-12.26.48:958][481]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.26.48:958][481]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.26.48:958][481]MaterialEditorStats: Shader Count: 4
+[2023.05.20-12.26.50:572][599]LogMaterialEditor: Saving and Compiling material MAT_Barbed_Wire
+[2023.05.20-12.26.51:033][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.20-12.26.51:834][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.05.20-12.26.51:842][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-12.26.53:662][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MAT_Barbed_Wire" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Materials/MAT_Barbed_Wire.uasset" SILENT=true
+[2023.05.20-12.26.53:664][599]LogSavePackage: Moving output files for package: /Game/Materials/MAT_Barbed_Wire
+[2023.05.20-12.26.53:664][599]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/MAT_Barbed_WireF03903F34E6320BC917485BF1A7C967D.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Materials/MAT_Barbed_Wire.uasset'
+[2023.05.20-12.26.53:669][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.82 sec (total: 5.94 sec)
+[2023.05.20-12.26.53:673][599]AssetCheck: New page: Asset Save: MAT_Barbed_Wire
+[2023.05.20-12.26.53:673][599]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/MAT_Barbed_Wire.MAT_Barbed_Wire
+[2023.05.20-12.26.53:674][599]MaterialEditorStats: Base pass shader: 219 instructions
+[2023.05.20-12.26.53:674][599]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.26.53:674][599]MaterialEditorStats: MaxSampler: 268 instructions
+[2023.05.20-12.26.53:674][599]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.20-12.26.53:674][599]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.26.53:674][599]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.26.53:674][599]MaterialEditorStats: Shader Count: 16
+[2023.05.20-12.26.53:686][600]LogAutomationController: Ignoring very large delta of 3.12 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.05.20-12.27.00:179][100]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.20-12.27.00:179][100]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.27.00:179][100]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.27.00:179][100]MaterialEditorStats: Shader Count: 0
+[2023.05.20-12.27.01:395][182]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.27.01:395][182]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.20-12.27.01:395][182]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.27.01:395][182]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.27.01:395][182]MaterialEditorStats: Shader Count: 2
+[2023.05.20-12.27.01:567][195]MaterialEditorStats: Base pass shader: 219 instructions
+[2023.05.20-12.27.01:567][195]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.27.01:567][195]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.20-12.27.01:567][195]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.27.01:567][195]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.27.01:567][195]MaterialEditorStats: Shader Count: 4
+[2023.05.20-12.27.01:889][216]LogMaterialEditor: Saving and Compiling material MAT_Barbed_Wire
+[2023.05.20-12.27.02:310][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.05.20-12.27.03:025][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.05.20-12.27.03:034][216]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-12.27.04:924][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MAT_Barbed_Wire" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Materials/MAT_Barbed_Wire.uasset" SILENT=true
+[2023.05.20-12.27.04:926][216]LogSavePackage: Moving output files for package: /Game/Materials/MAT_Barbed_Wire
+[2023.05.20-12.27.04:926][216]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/MAT_Barbed_Wire394B529E4A3DACD074A9E0B1248F4D01.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Materials/MAT_Barbed_Wire.uasset'
+[2023.05.20-12.27.04:933][216]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.89 sec (total: 7.84 sec)
+[2023.05.20-12.27.04:936][216]AssetCheck: New page: Asset Save: MAT_Barbed_Wire
+[2023.05.20-12.27.04:936][216]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/MAT_Barbed_Wire.MAT_Barbed_Wire
+[2023.05.20-12.27.04:937][216]MaterialEditorStats: Base pass shader: 219 instructions
+[2023.05.20-12.27.04:937][216]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.27.04:937][216]MaterialEditorStats: MaxSampler: 268 instructions
+[2023.05.20-12.27.04:937][216]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.20-12.27.04:937][216]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.27.04:937][216]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.27.04:937][216]MaterialEditorStats: Shader Count: 16
+[2023.05.20-12.27.04:949][217]LogAutomationController: Ignoring very large delta of 3.06 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.05.20-12.27.09:973][596]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.20-12.27.09:973][596]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.27.09:973][596]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.27.09:973][596]MaterialEditorStats: Shader Count: 0
+[2023.05.20-12.27.10:370][625]MaterialEditorStats: Base pass shader: 219 instructions
+[2023.05.20-12.27.10:370][625]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.27.10:370][625]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.20-12.27.10:370][625]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.27.10:370][625]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.27.10:370][625]MaterialEditorStats: Shader Count: 2
+[2023.05.20-12.27.11:480][706]LogMaterialEditor: Saving and Compiling material MAT_Barbed_Wire
+[2023.05.20-12.27.11:900][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.05.20-12.27.12:100][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.05.20-12.27.12:108][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-12.27.12:181][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MAT_Barbed_Wire" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Materials/MAT_Barbed_Wire.uasset" SILENT=true
+[2023.05.20-12.27.12:182][706]LogSavePackage: Moving output files for package: /Game/Materials/MAT_Barbed_Wire
+[2023.05.20-12.27.12:182][706]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/MAT_Barbed_Wire2C66ABA54566641616794BA12E7B9514.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Materials/MAT_Barbed_Wire.uasset'
+[2023.05.20-12.27.12:188][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 7.92 sec)
+[2023.05.20-12.27.12:191][706]AssetCheck: New page: Asset Save: MAT_Barbed_Wire
+[2023.05.20-12.27.12:191][706]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/MAT_Barbed_Wire.MAT_Barbed_Wire
+[2023.05.20-12.27.12:192][706]MaterialEditorStats: Base pass shader: 219 instructions
+[2023.05.20-12.27.12:192][706]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.27.12:192][706]MaterialEditorStats: MaxSampler: 268 instructions
+[2023.05.20-12.27.12:192][706]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.20-12.27.12:192][706]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.27.12:192][706]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.27.12:192][706]MaterialEditorStats: Shader Count: 16
+[2023.05.20-12.27.13:328][788]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.20-12.27.13:328][788]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.27.13:328][788]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.27.13:328][788]MaterialEditorStats: Shader Count: 0
+[2023.05.20-12.27.13:870][826]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.20-12.27.13:870][826]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.27.13:870][826]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.27.13:870][826]MaterialEditorStats: Shader Count: 1
+[2023.05.20-12.27.14:173][847]MaterialEditorStats: Base pass shader: 219 instructions
+[2023.05.20-12.27.14:173][847]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.27.14:173][847]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.20-12.27.14:173][847]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.27.14:173][847]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.27.14:173][847]MaterialEditorStats: Shader Count: 4
+[2023.05.20-12.27.16:504][ 28]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.20-12.27.16:504][ 28]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.27.16:504][ 28]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.27.16:504][ 28]MaterialEditorStats: Shader Count: 0
+[2023.05.20-12.27.17:041][ 64]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.20-12.27.17:041][ 64]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.27.17:041][ 64]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.27.17:041][ 64]MaterialEditorStats: Shader Count: 1
+[2023.05.20-12.27.17:336][ 85]MaterialEditorStats: Base pass shader: 220 instructions
+[2023.05.20-12.27.17:336][ 85]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.27.17:336][ 85]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.20-12.27.17:336][ 85]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.27.17:336][ 85]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.27.17:336][ 85]MaterialEditorStats: Shader Count: 4
+[2023.05.20-12.27.20:737][352]LogMaterialEditor: Saving and Compiling material MAT_Barbed_Wire
+[2023.05.20-12.27.21:158][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.20-12.27.21:981][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.05.20-12.27.21:990][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-12.27.23:840][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MAT_Barbed_Wire" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Materials/MAT_Barbed_Wire.uasset" SILENT=true
+[2023.05.20-12.27.23:845][352]LogSavePackage: Moving output files for package: /Game/Materials/MAT_Barbed_Wire
+[2023.05.20-12.27.23:845][352]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/MAT_Barbed_Wire861F22064B40704232E7868FD0DAF16F.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Materials/MAT_Barbed_Wire.uasset'
+[2023.05.20-12.27.23:854][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.86 sec (total: 9.79 sec)
+[2023.05.20-12.27.23:857][352]AssetCheck: New page: Asset Save: MAT_Barbed_Wire
+[2023.05.20-12.27.23:857][352]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/MAT_Barbed_Wire.MAT_Barbed_Wire
+[2023.05.20-12.27.23:858][352]MaterialEditorStats: Base pass shader: 220 instructions
+[2023.05.20-12.27.23:858][352]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.20-12.27.23:858][352]MaterialEditorStats: MaxSampler: 269 instructions
+[2023.05.20-12.27.23:858][352]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.20-12.27.23:858][352]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.20-12.27.23:858][352]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.20-12.27.23:858][352]MaterialEditorStats: Shader Count: 16
+[2023.05.20-12.27.23:871][353]LogAutomationController: Ignoring very large delta of 3.14 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.05.20-12.27.32:429][ 26]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-12.27.32:429][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-12.27.33:246][ 87]LogSlate: Window 'Barbed_Wire' being destroyed
+[2023.05.20-12.27.33:294][ 87]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-12.27.33:294][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-12.27.39:253][725]Cmd: ACTOR SELECT ALL
+[2023.05.20-12.27.40:784][896]Cmd: TRANSACTION UNDO
+[2023.05.20-12.27.40:784][896]LogEditorTransaction: Undo Select All
+[2023.05.20-12.27.41:330][916]Cmd: TRANSACTION UNDO
+[2023.05.20-12.27.41:330][916]LogEditorTransaction: Undo Scale Elements
+[2023.05.20-12.27.52:156][112]Cmd: TRANSACTION UNDO
+[2023.05.20-12.27.52:156][112]LogEditorTransaction: Undo Move Elements
+[2023.05.20-12.28.14:118][414]Cmd: TRANSACTION UNDO
+[2023.05.20-12.28.14:118][414]LogEditorTransaction: Undo Move Elements
+[2023.05.20-12.28.20:047][999]Cmd: DUPLICATE
+[2023.05.20-12.28.20:047][999]Cmd: ACTOR DUPLICATE
+[2023.05.20-12.28.47:731][109]Cmd: DUPLICATE
+[2023.05.20-12.28.47:731][109]Cmd: ACTOR DUPLICATE
+[2023.05.20-12.28.57:089][ 89]Cmd: DUPLICATE
+[2023.05.20-12.28.57:089][ 89]Cmd: ACTOR DUPLICATE
+[2023.05.20-12.29.01:722][543]Cmd: TRANSACTION UNDO
+[2023.05.20-12.29.01:722][543]LogEditorTransaction: Undo Move Elements
+[2023.05.20-12.29.07:039][ 62]Cmd: DUPLICATE
+[2023.05.20-12.29.07:039][ 62]Cmd: ACTOR DUPLICATE
+[2023.05.20-12.29.10:537][428]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.20-12.29.14:876][878]Cmd: DUPLICATE
+[2023.05.20-12.29.14:876][878]Cmd: ACTOR DUPLICATE
+[2023.05.20-12.29.18:751][268]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.20-12.29.21:173][538]Cmd: DUPLICATE
+[2023.05.20-12.29.21:173][538]Cmd: ACTOR DUPLICATE
+[2023.05.20-12.29.27:772][240]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.20-12.29.31:332][589]Cmd: DUPLICATE
+[2023.05.20-12.29.31:332][589]Cmd: ACTOR DUPLICATE
+[2023.05.20-12.29.35:613][ 21]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.20-12.29.46:577][266]Cmd: DUPLICATE
+[2023.05.20-12.29.46:577][266]Cmd: ACTOR DUPLICATE
+[2023.05.20-12.29.56:981][351]Cmd: DUPLICATE
+[2023.05.20-12.29.56:981][351]Cmd: ACTOR DUPLICATE
+[2023.05.20-12.30.01:230][766]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.20-12.30.03:444][ 14]Cmd: DUPLICATE
+[2023.05.20-12.30.03:444][ 14]Cmd: ACTOR DUPLICATE
+[2023.05.20-12.30.07:915][465]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.20-12.30.10:270][694]Cmd: DUPLICATE
+[2023.05.20-12.30.10:270][694]Cmd: ACTOR DUPLICATE
+[2023.05.20-12.30.14:792][115]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.20-12.30.20:395][679]Cmd: DUPLICATE
+[2023.05.20-12.30.20:395][679]Cmd: ACTOR DUPLICATE
+[2023.05.20-12.30.24:996][155]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.20-12.30.26:921][366]Cmd: DUPLICATE
+[2023.05.20-12.30.26:921][366]Cmd: ACTOR DUPLICATE
+[2023.05.20-12.30.38:094][541]Cmd: DUPLICATE
+[2023.05.20-12.30.38:094][541]Cmd: ACTOR DUPLICATE
+[2023.05.20-12.31.56:682][425]Cmd: TRANSACTION UNDO
+[2023.05.20-12.31.56:682][425]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.20-12.32.19:986][757]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.05.20-12.32.36:512][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-12.32.36:542][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Main" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Levels/LVL_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.20-12.32.36:553][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.20-12.32.36:570][450]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Main
+[2023.05.20-12.32.36:570][450]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/LVL_Main0440D5A64BDA0B6C053A90B23EBFE544.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Levels/LVL_Main.umap'
+[2023.05.20-12.32.36:596][450]LogFileHelpers: Saving map 'LVL_Main' took 0.055
+[2023.05.20-12.32.36:611][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 9.89 sec)
+[2023.05.20-12.32.36:615][450]AssetCheck: New page: Asset Save: LVL_Main
+[2023.05.20-12.32.36:615][450]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Main.LVL_Main
+[2023.05.20-12.32.46:239][468]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.20-12.32.46:247][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-12.32.46:247][468]PIE: New page: PIE session: LVL_Main (20 May 2023, 14:32:46)
+[2023.05.20-12.32.46:279][468]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_Main
+[2023.05.20-12.32.46:285][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005856s)
+[2023.05.20-12.32.46:285][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_Main.LVL_Main to /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main (0.005887s)
+[2023.05.20-12.32.46:285][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-12.32.46:285][468]LogAIModule: Creating AISystem for world LVL_Main
+[2023.05.20-12.32.46:286][468]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2023.05.20-12.32.46:296][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.05.20-12.32.46:298][468]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.05.20-12.32.46:298][468]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-12.32.46:298][468]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-12.32.46:298][468]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-12.32.46:298][468]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-12.32.46:298][468]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.20-12.32.46:298][468]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-12.32.46:298][468]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.20-12.32.46:298][468]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-12.32.46:299][468]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-12.32.46:299][468]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-12.32.46:299][468]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-12.32.46:301][468]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-12.32.46:316][468]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- DAC-X6)
+[2023.05.20-12.32.46:316][468]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-12.32.46:316][468]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-12.32.46:316][468]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-12.32.46:317][468]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.05.20-12.32.46:317][468]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.05.20-12.32.46:318][468]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.05.20-12.32.46:318][468]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.05.20-12.32.46:318][468]LogInit: FAudioDevice initialized.
+[2023.05.20-12.32.46:318][468]LogAudio: Display: Audio Device (ID: 7) registered with world 'LVL_Main'.
+[2023.05.20-12.32.46:322][468]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.20-12.32.46:325][468]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main up for play (max tick rate 0) at 2023.05.20-13.32.46
+[2023.05.20-12.32.46:325][468]LogWorld: Bringing up level for play took: 0.003626
+[2023.05.20-12.32.46:327][468]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2023.05.20-12.32.46:330][468]PIE: Server logged in
+[2023.05.20-12.32.46:330][468]PIE: Play in editor total start time 0.083 seconds.
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: ================================================
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: Total job queries 648, among them cache hits 262 (40.43%)
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: Tracking 382 distinct input hashes that result in 181 distinct outputs (47.38%)
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: RAM used: 2.60 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.16%
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: Shaders Compiled: 118
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: Jobs assigned 118, completed 118 (100.00%)
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: Average time worker was idle: 40.43 s
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: Time job spent in pending queue: average 0.30 s, longest 1.31 s
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: Job execution time: average 0.60 s, max 0.84 s
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: Job life time (pending + execution): average 0.90 s, max 1.81
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 23.08 s
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: Jobs were issued in 118 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: Average processing rate: 5.11 jobs/sec
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: Total thread time: 60.23 s
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: Total thread preprocess time: 3.26 s
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: Percentage time preprocessing: 5.41%
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: Effective parallelization: 2.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   15 times, average 0.64 sec, max 0.68 sec, min 0.52 sec)
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   15 times, average 0.59 sec, max 0.62 sec, min 0.55 sec)
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    5 times, average 0.57 sec, max 0.60 sec, min 0.56 sec)
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    5 times, average 0.57 sec, max 0.60 sec, min 0.56 sec)
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    5 times, average 0.56 sec, max 0.59 sec, min 0.55 sec)
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.86% of total time (compiled   15 times, average 0.64 sec, max 0.68 sec, min 0.52 sec)
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.70% of total time (compiled   15 times, average 0.59 sec, max 0.62 sec, min 0.55 sec)
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.19% of total time (compiled   14 times, average 0.52 sec, max 0.55 sec, min 0.51 sec)
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.59% of total time (compiled   14 times, average 0.33 sec, max 0.34 sec, min 0.32 sec)
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.74% of total time (compiled    5 times, average 0.57 sec, max 0.60 sec, min 0.56 sec)
+[2023.05.20-12.32.47:477][583]LogShaderCompilers: Display: ================================================
+[2023.05.20-12.32.58:919][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-12.32.58:919][946]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_Main
+[2023.05.20-12.32.58:919][946]LogWorld: UWorld::CleanupWorld for LVL_Main, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-12.32.58:920][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-12.32.58:923][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-12.32.58:925][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-12.32.58:933][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-12.32.58:933][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.05.20-12.32.58:935][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.05.20-12.32.58:940][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.05.20-12.32.59:019][948]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.05.20-12.33.33:594][653]Cmd: TRANSACTION UNDO
+[2023.05.20-12.33.33:594][653]LogEditorTransaction: Undo Move Elements
+[2023.05.20-12.33.33:833][660]Cmd: TRANSACTION UNDO
+[2023.05.20-12.33.33:833][660]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.20-12.33.34:051][663]Cmd: TRANSACTION UNDO
+[2023.05.20-12.33.34:051][663]LogEditorTransaction: Undo Set Scale
+[2023.05.20-12.33.34:222][677]Cmd: TRANSACTION UNDO
+[2023.05.20-12.33.34:222][677]LogEditorTransaction: Undo Set Scale
+[2023.05.20-12.33.34:609][719]Cmd: TRANSACTION UNDO
+[2023.05.20-12.33.34:609][719]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.20-12.33.35:117][772]Cmd: TRANSACTION UNDO
+[2023.05.20-12.33.35:117][772]LogEditorTransaction: Undo Set Scale
+[2023.05.20-12.34.37:343][850]Cmd: SELECT NONE
+[2023.05.20-12.34.37:360][852]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 1
+[2023.05.20-12.34.51:141][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-12.34.51:172][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Main" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Levels/LVL_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.20-12.34.51:181][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.05.20-12.34.51:197][379]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Main
+[2023.05.20-12.34.51:197][379]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/LVL_Main912B05C64D95B7B7A80D3199BD0CAB27.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Levels/LVL_Main.umap'
+[2023.05.20-12.34.51:212][379]LogFileHelpers: Saving map 'LVL_Main' took 0.039
+[2023.05.20-12.34.51:226][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 9.97 sec)
+[2023.05.20-12.34.51:229][379]AssetCheck: New page: Asset Save: LVL_Main
+[2023.05.20-12.34.51:229][379]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Main.LVL_Main
