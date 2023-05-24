@@ -22,3 +22,6 @@ https://poly.pizza/m/IuoYedcdXQ
 
 Stylized grass by Nicosama on Sketchfab:
 https://sketchfab.com/3d-models/stylized-grass-3a5a5c5be677403d9f56e451cd3dd4af
+
+Boulder by Poly by Google on poly.pizza:
+https://poly.pizza/m/3jql0qtape-
