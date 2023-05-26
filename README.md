@@ -17,9 +17,6 @@ https://poly.pizza/m/4bN_GRoyOan
 Barbed Wires by RoboHoloclone12 on Sketchfab:
 https://sketchfab.com/3d-models/barbed-wires-cd653a50818648da99dcf72f1b591765
 
-Can Red by Quaternius on poly.pizza:
-https://poly.pizza/m/IuoYedcdXQ
-
 Stylized grass by Nicosama on Sketchfab:
 https://sketchfab.com/3d-models/stylized-grass-3a5a5c5be677403d9f56e451cd3dd4af
 
