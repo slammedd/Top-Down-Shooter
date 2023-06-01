@@ -1893,3 +1893,553 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.01-14.40.39:218][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
 [2023.06.01-14.40.39:277][894]LogPlayLevel: Display: Destroying online subsystem :Context_53
 [2023.06.01-14.41.10:606][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.06.01-14.41.51:984][656]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animations/ABP_Rifleman.ABP_Rifleman
+[2023.06.01-14.41.51:984][656]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.41.52:003][656]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.41.52:011][656]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.01-14.41.52:568][656]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.41.52:675][656]LogViewport: Scene viewport resized to 636x598, mode Windowed.
+[2023.06.01-14.41.52:730][656]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.01-14.42.04:263][292]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Animations/BS_Idle-Walk-Run.BS_Idle-Walk-Run
+[2023.06.01-14.42.04:264][292]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.42.04:282][292]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.01-14.42.04:419][292]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.42.04:527][292]LogViewport: Scene viewport resized to 1525x837, mode Windowed.
+[2023.06.01-14.42.04:564][292]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.01-14.42.15:852][934]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.BlendSpace
+[2023.06.01-14.42.17:095][  5]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.06.01-14.42.17:309][ 17]LogShaderCompilers: Display: ================================================
+[2023.06.01-14.42.17:310][ 17]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.01-14.42.17:310][ 17]LogShaderCompilers: Display: Total job queries 569, among them cache hits 73 (12.83%)
+[2023.06.01-14.42.17:310][ 17]LogShaderCompilers: Display: Tracking 496 distinct input hashes that result in 278 distinct outputs (56.05%)
+[2023.06.01-14.42.17:310][ 17]LogShaderCompilers: Display: RAM used: 3.78 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.23%
+[2023.06.01-14.42.17:310][ 17]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.01-14.42.17:310][ 17]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.01-14.42.17:310][ 17]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.01-14.42.17:310][ 17]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.01-14.42.17:310][ 17]LogShaderCompilers: Display: ================================================
+[2023.06.01-14.42.17:388][ 19]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.42.20:615][157]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.42.20:615][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.42.20:625][157]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.42.20:625][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.42.20:673][157]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.42.20:673][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.42.33:323][847]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.06.01-14.42.34:177][889]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/StylizedArmyPackA/Soldiers_Animations/walk_rifle.walk_rifle
+[2023.06.01-14.42.34:177][889]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.42.34:197][889]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_53:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.01-14.42.34:338][889]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.42.34:442][889]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.42.34:458][889]LogViewport: Scene viewport resized to 1525x837, mode Windowed.
+[2023.06.01-14.42.34:489][889]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.01-14.42.36:780][999]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.42.36:780][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.42.36:790][999]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.42.36:790][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.42.36:837][999]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.42.36:837][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.42.45:217][432]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animations/ABP_Player.ABP_Player
+[2023.06.01-14.42.45:217][432]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.42.45:222][432]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.42.45:230][432]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.01-14.42.45:754][432]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.42.45:858][432]LogViewport: Scene viewport resized to 636x598, mode Windowed.
+[2023.06.01-14.42.45:930][432]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.01-14.42.52:171][707]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animations/ABP_Flamer.ABP_Flamer
+[2023.06.01-14.42.52:172][707]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.42.52:180][707]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.42.52:187][707]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.01-14.42.52:716][707]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.42.52:842][707]LogViewport: Scene viewport resized to 636x598, mode Windowed.
+[2023.06.01-14.42.52:903][707]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.01-14.43.57:027][  3]LogContentBrowser: Deferred new asset file creation: SC_Footsteps_Grass1
+[2023.06.01-14.43.57:045][  3]LogContentBrowser: Creating deferred item: SC_Footsteps_Grass1
+[2023.06.01-14.43.57:071][  4]LogContentBrowser: Renaming the item being created (Deferred Item: SC_Footsteps_Grass1).
+[2023.06.01-14.44.03:156][316]LogContentBrowser: Attempting asset rename: SC_Footsteps_Grass1 -> SC_Footsteps_Grass_Enemy
+[2023.06.01-14.44.03:157][316]LogContentBrowser: End creating deferred item SC_Footsteps_Grass1
+[2023.06.01-14.44.03:301][323]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds/SC_Footsteps_Grass_Enemy.SC_Footsteps_Grass_Enemy
+[2023.06.01-14.44.15:114][114]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.01-14.44.15:142][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SC_Footsteps_Grass_Enemy" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Sounds/SC_Footsteps_Grass_Enemy.uasset" SILENT=true
+[2023.06.01-14.44.15:144][114]LogSavePackage: Moving output files for package: /Game/Sounds/SC_Footsteps_Grass_Enemy
+[2023.06.01-14.44.15:144][114]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/SC_Footsteps_Grass_Enemy7D248719487A5169898118A2E39F7583.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Sounds/SC_Footsteps_Grass_Enemy.uasset'
+[2023.06.01-14.44.15:148][114]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 616 ms)
+[2023.06.01-14.44.15:154][114]AssetCheck: New page: Asset Save: SC_Footsteps_Grass_Enemy
+[2023.06.01-14.44.15:154][114]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/Sounds/SC_Footsteps_Grass_Enemy.SC_Footsteps_Grass_Enemy
+[2023.06.01-14.44.18:914][318]LogContentBrowser: Deferred new asset file creation: SC_Footsteps_Wood1
+[2023.06.01-14.44.18:932][318]LogContentBrowser: Creating deferred item: SC_Footsteps_Wood1
+[2023.06.01-14.44.18:959][319]LogContentBrowser: Renaming the item being created (Deferred Item: SC_Footsteps_Wood1).
+[2023.06.01-14.44.23:456][555]LogContentBrowser: Attempting asset rename: SC_Footsteps_Wood1 -> SC_Footsteps_Wood_Enemy
+[2023.06.01-14.44.23:457][555]LogContentBrowser: End creating deferred item SC_Footsteps_Wood1
+[2023.06.01-14.44.25:701][603]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds/SC_Footsteps_Wood_Enemy.SC_Footsteps_Wood_Enemy
+[2023.06.01-14.44.31:460][982]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.01-14.44.31:489][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SC_Footsteps_Wood_Enemy" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Sounds/SC_Footsteps_Wood_Enemy.uasset" SILENT=true
+[2023.06.01-14.44.31:491][982]LogSavePackage: Moving output files for package: /Game/Sounds/SC_Footsteps_Wood_Enemy
+[2023.06.01-14.44.31:491][982]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/SC_Footsteps_Wood_Enemy675A9E1148CEED9EE3B67AB4FBD1C643.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Sounds/SC_Footsteps_Wood_Enemy.uasset'
+[2023.06.01-14.44.31:496][982]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 653 ms)
+[2023.06.01-14.44.31:503][982]AssetCheck: New page: Asset Save: SC_Footsteps_Wood_Enemy
+[2023.06.01-14.44.31:503][982]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/Sounds/SC_Footsteps_Wood_Enemy.SC_Footsteps_Wood_Enemy
+[2023.06.01-14.44.34:982][168]LogContentBrowser: Deferred new asset file creation: SC_Horse_Footsteps_Dirt1
+[2023.06.01-14.44.34:999][168]LogContentBrowser: Creating deferred item: SC_Horse_Footsteps_Dirt1
+[2023.06.01-14.44.35:025][169]LogContentBrowser: Renaming the item being created (Deferred Item: SC_Horse_Footsteps_Dirt1).
+[2023.06.01-14.44.36:065][224]LogContentBrowser: Attempting asset rename: SC_Horse_Footsteps_Dirt1 -> SC_Horse_Footsteps_Dirt1
+[2023.06.01-14.44.36:067][224]LogContentBrowser: End creating deferred item SC_Horse_Footsteps_Dirt1
+[2023.06.01-14.44.38:017][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.06.01-14.44.38:932][325]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.01-14.44.38:987][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.06.01-14.44.39:032][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.06.01-14.44.39:079][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.01-14.44.43:981][584]LogContentBrowser: Deferred new asset file creation: SC_Footsteps_Dirt1
+[2023.06.01-14.44.43:999][584]LogContentBrowser: Creating deferred item: SC_Footsteps_Dirt1
+[2023.06.01-14.44.44:027][585]LogContentBrowser: Renaming the item being created (Deferred Item: SC_Footsteps_Dirt1).
+[2023.06.01-14.44.46:593][723]LogContentBrowser: Attempting asset rename: SC_Footsteps_Dirt1 -> SC_Footsteps_Dirt_Enemy
+[2023.06.01-14.44.46:594][723]LogContentBrowser: End creating deferred item SC_Footsteps_Dirt1
+[2023.06.01-14.44.46:897][738]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds/SC_Footsteps_Dirt_Enemy.SC_Footsteps_Dirt_Enemy
+[2023.06.01-14.44.55:069][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.01-14.44.55:096][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SC_Footsteps_Dirt_Enemy" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Sounds/SC_Footsteps_Dirt_Enemy.uasset" SILENT=true
+[2023.06.01-14.44.55:098][277]LogSavePackage: Moving output files for package: /Game/Sounds/SC_Footsteps_Dirt_Enemy
+[2023.06.01-14.44.55:098][277]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/SC_Footsteps_Dirt_Enemy6F804D23490C3AE33E5995AD62F1197D.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Sounds/SC_Footsteps_Dirt_Enemy.uasset'
+[2023.06.01-14.44.55:104][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 687 ms)
+[2023.06.01-14.44.55:110][277]AssetCheck: New page: Asset Save: SC_Footsteps_Dirt_Enemy
+[2023.06.01-14.44.55:110][277]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/Sounds/SC_Footsteps_Dirt_Enemy.SC_Footsteps_Dirt_Enemy
+[2023.06.01-14.45.25:208][959]BlueprintLog: New page: Compile ABP_Flamer
+[2023.06.01-14.45.25:303][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.06.01-14.45.26:120][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.01-14.45.26:154][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/ABP_Flamer" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Animations/ABP_Flamer.uasset" SILENT=true
+[2023.06.01-14.45.26:214][999]LogSavePackage: Moving output files for package: /Game/Animations/ABP_Flamer
+[2023.06.01-14.45.26:214][999]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/ABP_Flamer0B72B9FA4E67C85FD18FDB92E6195F32.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Animations/ABP_Flamer.uasset'
+[2023.06.01-14.45.26:221][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 787 ms)
+[2023.06.01-14.45.26:227][999]AssetCheck: New page: Asset Save: ABP_Flamer
+[2023.06.01-14.45.26:227][999]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animations/ABP_Flamer.ABP_Flamer
+[2023.06.01-14.45.36:699][310]LogShaderCompilers: Display: ================================================
+[2023.06.01-14.45.36:699][310]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.01-14.45.36:699][310]LogShaderCompilers: Display: Total job queries 573, among them cache hits 75 (13.09%)
+[2023.06.01-14.45.36:700][310]LogShaderCompilers: Display: Tracking 498 distinct input hashes that result in 279 distinct outputs (56.02%)
+[2023.06.01-14.45.36:700][310]LogShaderCompilers: Display: RAM used: 3.79 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.23%
+[2023.06.01-14.45.36:700][310]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.01-14.45.36:700][310]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.01-14.45.36:700][310]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.01-14.45.36:700][310]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.01-14.45.36:700][310]LogShaderCompilers: Display: ================================================
+[2023.06.01-14.45.38:574][413]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/AI/BP_Rifleman.BP_Rifleman_C
+[2023.06.01-14.45.38:574][413]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/AI/BP_Rifleman.BP_Rifleman_C
+[2023.06.01-14.45.38:578][413]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/AI/BP_Rifleman.BP_Rifleman as actor: BP_Rifleman_C /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.BP_Rifleman_C_0
+[2023.06.01-14.45.38:582][413]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/AI/BP_Rifleman.BP_Rifleman as actor: BP_Rifleman_C /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.BP_Rifleman_C_0
+[2023.06.01-14.45.38:605][413]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.06.01-14.45.39:209][449]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/AI/BP_Rifleman.BP_Rifleman_C
+[2023.06.01-14.45.39:209][449]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/AI/BP_Rifleman.BP_Rifleman_C
+[2023.06.01-14.45.39:214][449]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/AI/BP_Rifleman.BP_Rifleman as actor: BP_Rifleman_C /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.BP_Rifleman_C_1
+[2023.06.01-14.45.39:218][449]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/AI/BP_Rifleman.BP_Rifleman as actor: BP_Rifleman_C /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.BP_Rifleman_C_1
+[2023.06.01-14.45.40:733][533]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/AI/BP_Flamer.BP_Flamer_C
+[2023.06.01-14.45.40:733][533]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/AI/BP_Flamer.BP_Flamer_C
+[2023.06.01-14.45.40:739][533]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/AI/BP_Flamer.BP_Flamer as actor: BP_Flamer_C /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.BP_Flamer_C_0
+[2023.06.01-14.45.40:744][533]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/AI/BP_Flamer.BP_Flamer as actor: BP_Flamer_C /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.BP_Flamer_C_0
+[2023.06.01-14.45.41:406][569]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/AI/BP_Flamer.BP_Flamer_C
+[2023.06.01-14.45.41:406][569]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/AI/BP_Flamer.BP_Flamer_C
+[2023.06.01-14.45.41:412][569]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/AI/BP_Flamer.BP_Flamer as actor: BP_Flamer_C /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.BP_Flamer_C_1
+[2023.06.01-14.45.41:418][569]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/AI/BP_Flamer.BP_Flamer as actor: BP_Flamer_C /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.BP_Flamer_C_1
+[2023.06.01-14.45.42:732][672]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.06.01-14.45.42:742][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.01-14.45.42:742][672]PIE: New page: PIE session: LVL_Main (1 Jun 2023, 16:45:42)
+[2023.06.01-14.45.42:742][672]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_Main
+[2023.06.01-14.45.42:761][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019149s)
+[2023.06.01-14.45.42:761][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_Main.LVL_Main to /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main (0.019174s)
+[2023.06.01-14.45.42:761][672]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.45.42:761][672]LogAIModule: Creating AISystem for world LVL_Main
+[2023.06.01-14.45.42:762][672]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2023.06.01-14.45.42:813][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.06.01-14.45.42:815][672]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.06.01-14.45.42:815][672]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.01-14.45.42:815][672]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.01-14.45.42:815][672]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.01-14.45.42:815][672]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.01-14.45.42:815][672]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.01-14.45.42:815][672]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.01-14.45.42:815][672]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.01-14.45.42:815][672]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.01-14.45.42:816][672]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.01-14.45.42:816][672]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.01-14.45.42:816][672]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.01-14.45.42:817][672]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.01-14.45.42:831][672]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- DAC-X6)
+[2023.06.01-14.45.42:831][672]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.01-14.45.42:831][672]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.01-14.45.42:831][672]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.01-14.45.42:832][672]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.06.01-14.45.42:832][672]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.06.01-14.45.42:833][672]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.06.01-14.45.42:833][672]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.06.01-14.45.42:833][672]LogInit: FAudioDevice initialized.
+[2023.06.01-14.45.42:833][672]LogAudio: Display: Audio Device (ID: 8) registered with world 'LVL_Main'.
+[2023.06.01-14.45.42:863][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-14.45.42:863][672]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.01-14.45.42:867][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_10 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:867][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_11 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:867][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_12 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:867][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_13 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:867][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_17 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:867][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_18 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:867][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_19 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:867][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_20 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:867][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_21 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:867][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_22 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:867][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_25 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:867][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_26 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:867][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_27 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:867][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_28 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:867][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_29 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:867][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_30 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:867][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_33 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:867][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_34 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:867][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_35 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:868][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_36 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:868][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_37 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:868][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_38 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:868][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_41 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:868][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_42 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:868][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_43 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:868][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_44 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:868][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_45 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:868][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_46 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:868][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_50 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:868][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_51 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:868][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_52 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:868][672]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_53 : Fixed up deleted layer weightmap 
+[2023.06.01-14.45.42:870][672]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main up for play (max tick rate 0) at 2023.06.01-15.45.42
+[2023.06.01-14.45.42:871][672]LogWorld: Bringing up level for play took: 0.008244
+[2023.06.01-14.45.42:873][672]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2023.06.01-14.45.42:883][672]PIE: Server logged in
+[2023.06.01-14.45.42:886][672]PIE: Play in editor total start time 0.145 seconds.
+[2023.06.01-14.45.42:948][672]LogViewport: Scene viewport resized to 2554x1370, mode Windowed.
+[2023.06.01-14.45.50:423][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-14.45.50:423][279]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_Main
+[2023.06.01-14.45.50:424][279]LogSlate: Window 'Shooter Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.01-14.45.50:444][279]LogWorld: UWorld::CleanupWorld for LVL_Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.45.50:445][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.45.50:448][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.01-14.45.50:454][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.45.50:502][279]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.01-14.45.50:503][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.06.01-14.45.50:505][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.06.01-14.45.50:513][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.06.01-14.45.50:574][280]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2023.06.01-14.46.02:723][988]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/StylizedArmyPackA/Soldiers_Animations/Base_A_pose_GER_Skeleton.Base_A_pose_GER_Skeleton
+[2023.06.01-14.46.02:724][988]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.46.02:731][988]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.01-14.46.02:872][988]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.46.02:982][988]LogViewport: Scene viewport resized to 1525x1236, mode Windowed.
+[2023.06.01-14.46.06:791][182]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/StylizedArmyPackA/Soldiers_Animations/SK_Base_A_pose_germany.SK_Base_A_pose_germany
+[2023.06.01-14.46.06:791][182]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.46.06:800][182]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_66:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.01-14.46.06:949][182]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2023.06.01-14.46.07:067][182]LogViewport: Scene viewport resized to 1525x1236, mode Windowed.
+[2023.06.01-14.46.08:818][275]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/StylizedArmyPackA/Soldiers_Animations/walk_rifle.walk_rifle
+[2023.06.01-14.46.08:818][275]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.46.08:826][275]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.01-14.46.08:973][275]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.46.09:115][275]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.46.09:139][275]LogViewport: Scene viewport resized to 1525x837, mode Windowed.
+[2023.06.01-14.46.09:170][275]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.01-14.46.57:379][857]BlueprintLog: New page: Compile ABP_Flamer
+[2023.06.01-14.46.57:464][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.06.01-14.46.57:893][879]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.01-14.46.57:920][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/ABP_Flamer" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Animations/ABP_Flamer.uasset" SILENT=true
+[2023.06.01-14.46.57:966][879]LogSavePackage: Moving output files for package: /Game/Animations/ABP_Flamer
+[2023.06.01-14.46.57:966][879]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/ABP_Flamer9913884F4DB347DAD1F289A97AC4AACD.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Animations/ABP_Flamer.uasset'
+[2023.06.01-14.46.57:972][879]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 866 ms)
+[2023.06.01-14.46.57:978][879]AssetCheck: New page: Asset Save: ABP_Flamer
+[2023.06.01-14.46.57:978][879]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animations/ABP_Flamer.ABP_Flamer
+[2023.06.01-14.46.58:900][925]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Animations/BS_Idle-Walk-Run.BS_Idle-Walk-Run
+[2023.06.01-14.46.58:988][925]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.46.58:988][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.47.00:240][980]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.06.01-14.47.12:428][554]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.BlendSpace
+[2023.06.01-14.47.14:213][639]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.47.21:278][954]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.47.21:278][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.47.26:914][201]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.01-14.47.27:578][231]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2023.06.01-14.47.29:519][320]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.47.29:519][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.47.29:562][320]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.47.29:562][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.47.33:663][520]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.06.01-14.47.38:376][743]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Animations/BS_Idle-Walk-Run.BS_Idle-Walk-Run
+[2023.06.01-14.47.38:377][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.47.38:396][743]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_71:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.01-14.47.38:539][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.47.38:687][743]LogViewport: Scene viewport resized to 1525x837, mode Windowed.
+[2023.06.01-14.47.38:706][743]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.01-14.47.45:352][ 20]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/BP_Flamer.BP_Flamer
+[2023.06.01-14.47.45:352][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.47.52:602][355]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Blueprints/AI/BT_Flamer.BT_Flamer
+[2023.06.01-14.48.06:111][ 62]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.06.01-14.48.10:817][294]LogContentBrowser: Deferred new asset file creation: BS_Idle-Walk-Run1
+[2023.06.01-14.48.10:835][294]LogContentBrowser: Creating deferred item: BS_Idle-Walk-Run1
+[2023.06.01-14.48.10:864][295]LogContentBrowser: Renaming the item being created (Deferred Item: BS_Idle-Walk-Run1).
+[2023.06.01-14.48.14:695][477]LogContentBrowser: Attempting asset rename: BS_Idle-Walk-Run1 -> BS_Idle-Walk-Run_Flamer
+[2023.06.01-14.48.14:738][477]LogContentBrowser: End creating deferred item BS_Idle-Walk-Run1
+[2023.06.01-14.48.14:859][482]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Animations/BS_Idle-Walk-Run_Flamer.BS_Idle-Walk-Run_Flamer
+[2023.06.01-14.48.23:246][843]LoadErrors: Error: BlendSpace BS_Idle-Walk-Run_Flamer has sample walk_rifle that is invalid due to being out of bounds. Recommend adjusting it.
+[2023.06.01-14.48.23:271][843]LoadErrors: Error: BlendSpace BS_Idle-Walk-Run_Flamer has sample run_rifle that is invalid due to being out of bounds. Recommend adjusting it.
+[2023.06.01-14.48.26:841][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.01-14.48.26:874][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/BS_Idle-Walk-Run_Flamer" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Animations/BS_Idle-Walk-Run_Flamer.uasset" SILENT=true
+[2023.06.01-14.48.26:875][952]LogSavePackage: Moving output files for package: /Game/Animations/BS_Idle-Walk-Run_Flamer
+[2023.06.01-14.48.26:875][952]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/BS_Idle-Walk-Run_Flamer850A6D144317F5710CAAB1A54F5A75EE.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Animations/BS_Idle-Walk-Run_Flamer.uasset'
+[2023.06.01-14.48.26:885][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 911 ms)
+[2023.06.01-14.48.26:891][952]AssetCheck: New page: Asset Save: BS_Idle-Walk-Run_Flamer
+[2023.06.01-14.48.26:891][952]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/Animations/BS_Idle-Walk-Run_Flamer.BS_Idle-Walk-Run_Flamer
+[2023.06.01-14.48.48:493][333]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.06.01-14.48.48:505][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.01-14.48.48:505][333]PIE: New page: PIE session: LVL_Main (1 Jun 2023, 16:48:48)
+[2023.06.01-14.48.48:505][333]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_Main
+[2023.06.01-14.48.48:525][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019416s)
+[2023.06.01-14.48.48:525][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_Main.LVL_Main to /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main (0.019442s)
+[2023.06.01-14.48.48:525][333]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.48.48:525][333]LogAIModule: Creating AISystem for world LVL_Main
+[2023.06.01-14.48.48:525][333]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2023.06.01-14.48.48:589][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.06.01-14.48.48:591][333]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.06.01-14.48.48:591][333]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.01-14.48.48:591][333]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.01-14.48.48:591][333]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.01-14.48.48:591][333]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.01-14.48.48:591][333]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.01-14.48.48:591][333]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.01-14.48.48:591][333]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.01-14.48.48:591][333]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.01-14.48.48:591][333]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.01-14.48.48:591][333]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.01-14.48.48:591][333]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.01-14.48.48:593][333]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.01-14.48.48:608][333]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- DAC-X6)
+[2023.06.01-14.48.48:608][333]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.01-14.48.48:608][333]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.01-14.48.48:608][333]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.01-14.48.48:609][333]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.06.01-14.48.48:609][333]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.06.01-14.48.48:610][333]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.06.01-14.48.48:610][333]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.06.01-14.48.48:610][333]LogInit: FAudioDevice initialized.
+[2023.06.01-14.48.48:610][333]LogAudio: Display: Audio Device (ID: 9) registered with world 'LVL_Main'.
+[2023.06.01-14.48.48:642][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-14.48.48:642][333]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.01-14.48.48:646][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_10 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:646][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_11 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:646][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_12 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_13 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_17 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_18 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_19 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_20 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_21 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_22 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_25 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_26 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_27 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_28 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_29 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_30 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_33 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_34 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_35 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_36 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_37 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_38 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_41 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_42 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_43 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_44 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_45 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_46 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_50 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_51 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_52 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:647][333]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_53 : Fixed up deleted layer weightmap 
+[2023.06.01-14.48.48:650][333]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main up for play (max tick rate 0) at 2023.06.01-15.48.48
+[2023.06.01-14.48.48:651][333]LogWorld: Bringing up level for play took: 0.008071
+[2023.06.01-14.48.48:652][333]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2023.06.01-14.48.48:661][333]PIE: Server logged in
+[2023.06.01-14.48.48:663][333]PIE: Play in editor total start time 0.161 seconds.
+[2023.06.01-14.48.48:731][333]LogViewport: Scene viewport resized to 2554x1370, mode Windowed.
+[2023.06.01-14.48.55:586][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-14.48.55:586][882]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_Main
+[2023.06.01-14.48.55:587][882]LogSlate: Window 'Shooter Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.01-14.48.55:609][882]LogWorld: UWorld::CleanupWorld for LVL_Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.48.55:610][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.48.55:680][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.01-14.48.55:686][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.48.55:739][882]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.01-14.48.55:740][882]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.06.01-14.48.55:742][882]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.06.01-14.48.55:749][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.06.01-14.48.55:809][883]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2023.06.01-14.48.59:501][ 47]LogShaderCompilers: Display: ================================================
+[2023.06.01-14.48.59:501][ 47]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.01-14.48.59:501][ 47]LogShaderCompilers: Display: Total job queries 615, among them cache hits 79 (12.85%)
+[2023.06.01-14.48.59:501][ 47]LogShaderCompilers: Display: Tracking 536 distinct input hashes that result in 286 distinct outputs (53.36%)
+[2023.06.01-14.48.59:501][ 47]LogShaderCompilers: Display: RAM used: 4.04 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.25%
+[2023.06.01-14.48.59:501][ 47]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.01-14.48.59:501][ 47]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.01-14.48.59:501][ 47]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.01-14.48.59:501][ 47]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.01-14.48.59:501][ 47]LogShaderCompilers: Display: ================================================
+[2023.06.01-14.49.05:327][350]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/MAT_Bridge_1.MAT_Bridge_1
+[2023.06.01-14.49.05:331][350]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.49.05:480][350]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.01-14.49.05:480][350]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.06.01-14.49.05:480][350]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.01-14.49.05:480][350]MaterialEditorStats: Shader Count: 0
+[2023.06.01-14.49.05:489][350]LogViewport: Scene viewport resized to 751x634, mode Windowed.
+[2023.06.01-14.49.05:770][352]MaterialEditorStats: Base pass shader: 217 instructions
+[2023.06.01-14.49.05:770][352]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.06.01-14.49.05:770][352]MaterialEditorStats: Texture samplers: 3/16
+[2023.06.01-14.49.05:770][352]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.06.01-14.49.05:770][352]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.01-14.49.05:770][352]MaterialEditorStats: Shader Count: 4
+[2023.06.01-14.49.09:560][539]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.49.09:560][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.49.16:027][850]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.49.16:027][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.49.16:074][850]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.49.16:074][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.49.31:379][617]BlueprintLog: New page: Compile ABP_Rifleman
+[2023.06.01-14.49.31:475][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.06.01-14.49.31:915][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.01-14.49.31:952][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/ABP_Rifleman" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Animations/ABP_Rifleman.uasset" SILENT=true
+[2023.06.01-14.49.31:981][635]LogSavePackage: Moving output files for package: /Game/Animations/ABP_Rifleman
+[2023.06.01-14.49.31:981][635]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/ABP_Rifleman84A73D6240C43B1F0CD212BF07F656A4.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Animations/ABP_Rifleman.uasset'
+[2023.06.01-14.49.31:988][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 983 ms)
+[2023.06.01-14.49.31:994][635]AssetCheck: New page: Asset Save: ABP_Rifleman
+[2023.06.01-14.49.31:994][635]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animations/ABP_Rifleman.ABP_Rifleman
+[2023.06.01-14.49.35:978][815]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.06.01-14.49.35:991][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.01-14.49.35:991][815]PIE: New page: PIE session: LVL_Main (1 Jun 2023, 16:49:35)
+[2023.06.01-14.49.35:991][815]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_Main
+[2023.06.01-14.49.36:010][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019470s)
+[2023.06.01-14.49.36:010][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_Main.LVL_Main to /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main (0.019497s)
+[2023.06.01-14.49.36:010][815]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.01-14.49.36:011][815]LogAIModule: Creating AISystem for world LVL_Main
+[2023.06.01-14.49.36:011][815]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2023.06.01-14.49.36:063][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.06.01-14.49.36:067][815]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.06.01-14.49.36:067][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.01-14.49.36:067][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.01-14.49.36:067][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.01-14.49.36:067][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.01-14.49.36:067][815]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.01-14.49.36:067][815]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.01-14.49.36:067][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.01-14.49.36:067][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.01-14.49.36:067][815]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.01-14.49.36:067][815]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.01-14.49.36:067][815]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.01-14.49.36:068][815]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.01-14.49.36:082][815]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- DAC-X6)
+[2023.06.01-14.49.36:082][815]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.01-14.49.36:082][815]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.01-14.49.36:082][815]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.01-14.49.36:083][815]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.06.01-14.49.36:083][815]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.06.01-14.49.36:084][815]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.06.01-14.49.36:084][815]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.06.01-14.49.36:084][815]LogInit: FAudioDevice initialized.
+[2023.06.01-14.49.36:084][815]LogAudio: Display: Audio Device (ID: 10) registered with world 'LVL_Main'.
+[2023.06.01-14.49.36:108][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-14.49.36:108][815]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.01-14.49.36:112][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_10 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:112][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_11 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:112][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_12 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:112][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_13 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_17 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_18 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_19 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_20 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_21 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_22 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_25 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_26 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_27 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_28 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_29 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_30 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_33 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_34 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_35 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_36 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_37 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_38 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_41 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_42 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_43 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_44 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_45 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_46 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_50 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_51 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_52 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:113][815]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_53 : Fixed up deleted layer weightmap 
+[2023.06.01-14.49.36:116][815]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main up for play (max tick rate 0) at 2023.06.01-15.49.36
+[2023.06.01-14.49.36:117][815]LogWorld: Bringing up level for play took: 0.008160
+[2023.06.01-14.49.36:119][815]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2023.06.01-14.49.36:129][815]PIE: Server logged in
+[2023.06.01-14.49.36:133][815]PIE: Play in editor total start time 0.145 seconds.
+[2023.06.01-14.49.36:201][815]LogViewport: Scene viewport resized to 2554x1370, mode Windowed.
+[2023.06.01-14.49.44:862][183]LogBlueprintUserMessages: [BP_ThirdPersonGameMode_C_0] Enemy Firing Cancelled
+[2023.06.01-14.49.46:696][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-14.49.46:696][263]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_Main
+[2023.06.01-14.49.46:697][263]LogSlate: Window 'Shooter Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.01-14.49.46:702][263]LogWorld: UWorld::CleanupWorld for LVL_Main, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.49.46:703][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.49.46:708][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.01-14.49.46:714][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.49.46:766][263]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.01-14.49.46:767][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.06.01-14.49.46:768][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.06.01-14.49.46:775][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.06.01-14.49.46:845][264]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2023.06.01-14.49.48:966][352]LogSlate: Window 'BT_Flamer' being destroyed
+[2023.06.01-14.49.48:969][352]LogSlate: Window 'BT_Flamer' being destroyed
+[2023.06.01-14.49.48:996][352]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.49.48:996][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.49.49:040][352]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.49.49:040][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.49.49:102][352]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.49.49:102][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.49.49:131][352]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.49.49:132][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.49.49:174][352]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.49.49:174][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.49.49:239][352]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.49.49:239][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.49.49:280][352]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.49.49:280][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.49.49:318][352]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.49.49:318][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.49.49:382][352]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.49.49:382][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.49.49:411][352]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.49.49:411][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.49.49:449][352]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.49.49:449][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.49.49:480][352]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.49.49:480][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.49.49:532][352]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-14.49.49:532][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-14.49.54:352][813]Cmd: DELETE
+[2023.06.01-14.49.54:352][813]Cmd: ACTOR DELETE
+[2023.06.01-14.49.54:361][813]LogEditorActor: Deleted Actor: BP_Rifleman_C
+[2023.06.01-14.49.54:363][813]LogEditorActor: Deleted Actor: BP_Flamer_C
+[2023.06.01-14.49.54:406][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.06.01-14.49.54:424][813]LogEditorActor: Deleted 2 Actors (0.071 secs)
+[2023.06.01-14.49.56:307][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.06.01-14.49.56:310][990]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.01-14.49.56:339][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Main" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Levels/LVL_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.01-14.49.56:367][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.06.01-14.49.56:469][990]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Main
+[2023.06.01-14.49.56:469][990]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/LVL_Main425D130B4495B8E0FC914298E4BDD709.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Levels/LVL_Main.umap'
+[2023.06.01-14.49.56:485][990]LogFileHelpers: No new changes to save!
+[2023.06.01-14.49.56:485][990]LogFileHelpers: Saving map 'LVL_Main' took 0.146
+[2023.06.01-14.49.56:513][990]LogFileHelpers: InternalPromptForCheckoutAndSave took 203 ms (total: 1.18 sec)
+[2023.06.01-14.49.56:520][990]AssetCheck: New page: Asset Save: LVL_Main
+[2023.06.01-14.49.56:520][990]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Main.LVL_Main
