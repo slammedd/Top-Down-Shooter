@@ -22,3 +22,6 @@ https://sketchfab.com/3d-models/stylized-grass-3a5a5c5be677403d9f56e451cd3dd4af
 
 Boulder by Poly by Google on poly.pizza:
 https://poly.pizza/m/3jql0qtape-
+
+Fokker T.V bomber by helijah on Sketchfab:
+https://sketchfab.com/3d-models/fokker-tv-bomber-61f7d90d0d7e4f919ca01c66849f35d6
