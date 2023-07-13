@@ -25,3 +25,9 @@ https://poly.pizza/m/3jql0qtape-
 
 Fokker T.V bomber by helijah on Sketchfab:
 https://sketchfab.com/3d-models/fokker-tv-bomber-61f7d90d0d7e4f919ca01c66849f35d6
+
+Crate box by KloWorks on Sketchfab:
+https://sketchfab.com/3d-models/crate-box-e1a6856037c54d0d9019aedf61315569
+
+Parachute by m4dg4m3r on Sketchfab:
+https://sketchfab.com/3d-models/parachute-40a814b7159c4b82b4ae1c17eae69f84
