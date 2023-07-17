@@ -31,3 +31,5 @@ https://sketchfab.com/3d-models/crate-box-e1a6856037c54d0d9019aedf61315569
 
 Parachute by m4dg4m3r on Sketchfab:
 https://sketchfab.com/3d-models/parachute-40a814b7159c4b82b4ae1c17eae69f84
+
+<a href="https://www.vecteezy.com/free-png/plus">Plus PNGs by Vecteezy</a>
