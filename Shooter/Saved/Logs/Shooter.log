@@ -3429,3 +3429,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.31-16.33.50:649][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
 [2023.07.31-16.33.50:659][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
 [2023.07.31-16.33.50:713][  5]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2023.07.31-16.34.22:946][272]LogDerivedDataCache: C:/Users/craft/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.135 and deleted 0 files with total size 0 MiB. Scanned 5706 files in 5636 folders with total size 139 MiB.
+[2023.07.31-16.34.42:967][692]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds/SC_Crate_Break.SC_Crate_Break
+[2023.07.31-16.35.02:832][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.31-16.35.02:852][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SC_Crate_Break" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Sounds/SC_Crate_Break.uasset" SILENT=true
+[2023.07.31-16.35.02:853][334]LogSavePackage: Moving output files for package: /Game/Sounds/SC_Crate_Break
+[2023.07.31-16.35.02:853][334]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/SC_Crate_BreakE096C7CB43B7239FC1B672837FB8A7DA.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Sounds/SC_Crate_Break.uasset'
+[2023.07.31-16.35.02:860][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 27 ms (total: 3.80 sec)
+[2023.07.31-16.35.02:866][334]AssetCheck: New page: Asset Save: SC_Crate_Break
+[2023.07.31-16.35.02:866][334]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/Sounds/SC_Crate_Break.SC_Crate_Break
+[2023.07.31-16.35.07:787][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
