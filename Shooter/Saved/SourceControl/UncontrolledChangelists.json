@@ -503,6 +503,7 @@
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/Blueprints/BP_Custom_Loop.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/Sounds/Wave_Change.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/UI/Assets/HUD.uasset",
+				"H:/Repos/Top-Down-Shooter/Shooter/Content/Blueprints/AI/Tasks/BTTask_Random_Location_Around_Player.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/Blueprints/ENUM_Power_Ups.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/Meshes/Wood_Crate.uasset",
 				"H:/Repos/Top-Down-Shooter/Shooter/Content/Materials/MAT_Plane.uasset",
