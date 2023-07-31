@@ -2642,3 +2642,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.31-16.19.24:141][787]LogSlate: Window 'Message Log' being destroyed
 [2023.07.31-16.19.24:146][787]LogSlate: Window 'Message Log' being destroyed
 [2023.07.31-16.19.25:914][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.07.31-16.23.46:668][974]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Enemy_Bullet_Rifle.BP_Enemy_Bullet_Rifle
+[2023.07.31-16.23.46:668][974]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.31-16.23.54:578][450]BlueprintLog: New page: Compile BP_Enemy_Bullet_Rifle
+[2023.07.31-16.23.54:685][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.07.31-16.23.55:239][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.31-16.23.55:282][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy_Bullet_Rifle" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Blueprints/BP_Enemy_Bullet_Rifle.uasset" SILENT=true
+[2023.07.31-16.23.55:290][482]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Enemy_Bullet_Rifle
+[2023.07.31-16.23.55:290][482]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/BP_Enemy_Bullet_RifleCBA6D4224E54E627DE023B95B4CAEEA0.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Blueprints/BP_Enemy_Bullet_Rifle.uasset'
+[2023.07.31-16.23.55:296][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 3.10 sec)
+[2023.07.31-16.23.55:305][482]AssetCheck: New page: Asset Save: BP_Enemy_Bullet_Rifle
+[2023.07.31-16.23.55:305][482]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Enemy_Bullet_Rifle.BP_Enemy_Bullet_Rifle
