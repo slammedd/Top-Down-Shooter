@@ -5662,3 +5662,14 @@ Make sure 'BP_Crate_C' has been compiled for  Get Enemies Table
 [2023.08.02-19.15.29:057][287]LogSlate: Window 'Message Log' being destroyed
 [2023.08.02-19.15.29:670][339]LogSlate: Window 'Project Settings' being destroyed
 [2023.08.02-19.15.29:674][339]LogSlate: Window 'Project Settings' being destroyed
+[2023.08.02-19.16.12:460][346]LogContentBrowser: Attempting asset rename: SC_Healing_Pack -> SC_Healing_Pack
+[2023.08.02-19.16.12:585][361]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds/SC_Healing_Pack.SC_Healing_Pack
+[2023.08.02-19.16.28:942][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.02-19.16.28:967][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SC_Healing_Pack" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Sounds/SC_Healing_Pack.uasset" SILENT=true
+[2023.08.02-19.16.28:968][704]LogSavePackage: Moving output files for package: /Game/Sounds/SC_Healing_Pack
+[2023.08.02-19.16.28:968][704]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/SC_Healing_PackB916E0D442FF9B25F37E1988D581C5CE.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Sounds/SC_Healing_Pack.uasset'
+[2023.08.02-19.16.28:977][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 8.65 sec)
+[2023.08.02-19.16.28:986][704]AssetCheck: New page: Asset Save: SC_Healing_Pack
+[2023.08.02-19.16.28:986][704]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/Sounds/SC_Healing_Pack.SC_Healing_Pack
+[2023.08.02-19.16.29:783][764]LogSlate: Window 'SC_Healing_Pack' being destroyed
+[2023.08.02-19.16.31:644][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
