@@ -5673,3 +5673,27 @@ Make sure 'BP_Crate_C' has been compiled for  Get Enemies Table
 [2023.08.02-19.16.28:986][704]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/Sounds/SC_Healing_Pack.SC_Healing_Pack
 [2023.08.02-19.16.29:783][764]LogSlate: Window 'SC_Healing_Pack' being destroyed
 [2023.08.02-19.16.31:644][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.08.02-19.17.03:901][630]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.LVL_Main
+[2023.08.02-19.17.03:901][630]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.02-19.17.48:328][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.02-19.17.48:363][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Main" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Levels/LVL_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.02-19.17.48:442][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.08.02-19.17.48:570][569]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Main
+[2023.08.02-19.17.48:571][569]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/LVL_Main1E2DC29B4F56882F10E2BB9DFD6819E2.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Levels/LVL_Main.umap'
+[2023.08.02-19.17.48:591][569]LogFileHelpers: No new changes to save!
+[2023.08.02-19.17.48:591][569]LogFileHelpers: Saving map 'LVL_Main' took 0.229
+[2023.08.02-19.17.48:603][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 275 ms (total: 8.93 sec)
+[2023.08.02-19.17.48:610][569]AssetCheck: New page: Asset Save: LVL_Main
+[2023.08.02-19.17.48:610][569]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Main.LVL_Main
+[2023.08.02-19.18.02:683][526]BlueprintLog: New page: Compile LVL_Main
+[2023.08.02-19.18.02:861][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.08.02-19.18.03:308][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.02-19.18.03:339][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Main" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Levels/LVL_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.02-19.18.03:376][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.08.02-19.18.03:489][549]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Main
+[2023.08.02-19.18.03:489][549]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/LVL_Main7F90E255466E4659D05B6AAE687AFECB.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Levels/LVL_Main.umap'
+[2023.08.02-19.18.03:508][549]LogFileHelpers: No new changes to save!
+[2023.08.02-19.18.03:508][549]LogFileHelpers: Saving map 'LVL_Main' took 0.170
+[2023.08.02-19.18.03:518][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 210 ms (total: 9.14 sec)
+[2023.08.02-19.18.03:525][549]AssetCheck: New page: Asset Save: LVL_Main
+[2023.08.02-19.18.03:525][549]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Main.LVL_Main
