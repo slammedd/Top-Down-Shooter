@@ -38,3 +38,6 @@ Cristal dome by Marianito on Sketchfab:
 https://sketchfab.com/3d-models/cristal-dome-87b4a85734c34495819262f5be0913ba
 
 https://www.vecteezy.com/free-vector/target">Target Vectors by Vecteezy
+
+Quit free icon by laterunlabs on flaticon.com:
+https://www.flaticon.com/free-icon/quit_7887768
