@@ -5548,3 +5548,445 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.03-17.54.19:472][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.08.03-17.54.19:618][ 45]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
 [2023.08.03-17.54.19:618][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-17.55.15:481][274]MapCheck: New page: Map Check
+[2023.08.03-17.55.15:526][274]Cmd: MAP REBUILD ALLVISIBLE
+[2023.08.03-17.55.15:526][274]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.08.03-17.55.15:780][274]LogWorld: UWorld::CleanupWorld for LVL_Main, bSessionEnded=true, bCleanupResources=false
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_10 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_11 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_12 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_13 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_17 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_18 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_19 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_20 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_21 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_22 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_25 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_26 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_27 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_28 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_29 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_30 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_33 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_34 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_35 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_36 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_37 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_38 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_41 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_42 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_43 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_44 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_45 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_46 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_50 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_51 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_52 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:798][274]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_53 : Fixed up deleted layer weightmap 
+[2023.08.03-17.55.15:840][274]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.08.03-17.55.15:843][274]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.08.03-17.55.15:843][274]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.08.03-17.55.15:903][274]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.06s
+[2023.08.03-17.55.15:903][274]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.RecastNavMesh-Default).
+[2023.08.03-17.55.15:903][274]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.06s
+[2023.08.03-17.55.15:939][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.08.03-17.55.18:973][274]LogLevel: Display: Export Material TexCoord Scales took 0.164 seconds.
+[2023.08.03-17.55.19:008][274]TextureStreamingBuild: Display: Build Texture Streaming took 0.024 seconds.
+[2023.08.03-17.55.19:042][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.08.03-17.55.19:051][274]LightingResults: New page: Lighting Build - 3 Aug 2023, 19:55:19
+[2023.08.03-17.55.19:213][274]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.08.03-17.55.19:723][274]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.08.03-17.55.19:736][274]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.08.03-17.55.20:762][274]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.08.03-17.55.20:762][274]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14644
+[2023.08.03-17.55.27:385][274]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.08.03-17.55.27:386][274]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.08.03-17.55.27:386][274]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.08.03-17.55.27:386][274]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.08.03-17.55.27:386][274]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.08.03-17.55.27:386][274]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.08.03-17.55.27:528][274]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2023.08.03-17.55.27:528][274]MapCheck: New page: LVL_Main - 3 Aug 2023, 19:55:27
+[2023.08.03-17.55.27:538][274]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 10.191ms to complete.
+[2023.08.03-17.55.27:539][274]LogEditorBuildUtils: Build time 0:12
+[2023.08.03-17.55.30:411][295]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s
+[2023.08.03-17.55.46:792][295]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.002565s (16.382150s overbudget)
+[2023.08.03-17.55.46:854][295]LogShaderCompilers: Display: ================================================
+[2023.08.03-17.55.46:854][295]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display: Total job queries 2564, among them cache hits 203 (7.92%)
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display: Tracking 2361 distinct input hashes that result in 893 distinct outputs (37.82%)
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display: RAM used: 16.97 MB (0.02 GB) of 1638.40 MB (1.60 GB) budget. Usage: 1.04%
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display: Shaders Compiled: 1167
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display: Jobs assigned 1167, completed 1167 (100.00%)
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display: Average time worker was idle: 19.69 s
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display: Time job spent in pending queue: average 59.22 s, longest 135.35 s
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display: Job execution time: average 1.29 s, max 10.40 s
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display: Job life time (pending + execution): average 60.51 s, max 135.75
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 176.20 s
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display: Jobs were issued in 1014 batches (only local compilation was used), average 1.15 jobs/batch
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display: Average processing rate: 6.62 jobs/sec
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display: Total thread time: 604.06 s
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display: Total thread preprocess time: 32.86 s
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display: Percentage time preprocessing: 5.44%
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display: Effective parallelization: 3.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 1.25 sec, max 1.25 sec, min 1.25 sec)
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 1.24 sec, max 1.24 sec, min 1.24 sec)
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 1.16 sec, max 1.16 sec, min 1.16 sec)
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 1.06 sec, max 1.49 sec, min 0.69 sec)
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 1.06 sec, max 1.06 sec, min 1.06 sec)
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.85% of total time (compiled   91 times, average 0.52 sec, max 0.74 sec, min 0.45 sec)
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.50% of total time (compiled   91 times, average 0.50 sec, max 0.75 sec, min 0.43 sec)
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display:                                             FDebugViewModeVS - 5.51% of total time (compiled   73 times, average 0.46 sec, max 0.65 sec, min 0.42 sec)
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.31% of total time (compiled   73 times, average 0.44 sec, max 1.40 sec, min 0.35 sec)
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.95% of total time (compiled   39 times, average 0.61 sec, max 0.80 sec, min 0.55 sec)
+[2023.08.03-17.55.46:855][295]LogShaderCompilers: Display: ================================================
+[2023.08.03-17.55.49:685][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.08.03-17.56.05:198][441]LightingResults: Warning: Tree3 Object has overlapping UVs.
+[2023.08.03-17.56.05:198][441]LightingResults: Tree3 Lightmap UV are overlapping by 33.9%. Please adjust content - Enable Error Coloring to visualize.
+[2023.08.03-17.56.07:859][449]LightingResults: Warning: Tree3 Object has overlapping UVs.
+[2023.08.03-17.56.07:859][449]LightingResults: Tree3 Lightmap UV are overlapping by 33.9%. Please adjust content - Enable Error Coloring to visualize.
+[2023.08.03-17.56.07:859][449]LightingResults: Warning: Tree3 Object has overlapping UVs.
+[2023.08.03-17.56.07:859][449]LightingResults: Tree3 Lightmap UV are overlapping by 33.9%. Please adjust content - Enable Error Coloring to visualize.
+[2023.08.03-17.56.08:273][450]LightingResults: Warning: Tree3 Object has overlapping UVs.
+[2023.08.03-17.56.08:273][450]LightingResults: Tree3 Lightmap UV are overlapping by 33.9%. Please adjust content - Enable Error Coloring to visualize.
+[2023.08.03-17.56.08:273][450]LightingResults: Warning: Tree3 Object has overlapping UVs.
+[2023.08.03-17.56.08:273][450]LightingResults: Tree3 Lightmap UV are overlapping by 33.9%. Please adjust content - Enable Error Coloring to visualize.
+[2023.08.03-17.56.08:273][450]LightingResults: Warning: Tree3 Object has overlapping UVs.
+[2023.08.03-17.56.08:273][450]LightingResults: Tree3 Lightmap UV are overlapping by 33.9%. Please adjust content - Enable Error Coloring to visualize.
+[2023.08.03-17.56.08:529][451]LightingResults: Warning: Tree3 Object has overlapping UVs.
+[2023.08.03-17.56.08:529][451]LightingResults: Tree3 Lightmap UV are overlapping by 33.9%. Please adjust content - Enable Error Coloring to visualize.
+[2023.08.03-17.56.08:529][451]LightingResults: Warning: Tree3 Object has overlapping UVs.
+[2023.08.03-17.56.08:529][451]LightingResults: Tree3 Lightmap UV are overlapping by 33.9%. Please adjust content - Enable Error Coloring to visualize.
+[2023.08.03-17.56.08:868][452]LightingResults: Warning: Tree3 Object has overlapping UVs.
+[2023.08.03-17.56.08:868][452]LightingResults: Tree3 Lightmap UV are overlapping by 33.9%. Please adjust content - Enable Error Coloring to visualize.
+[2023.08.03-17.56.08:868][452]LightingResults: Warning: Tree3 Object has overlapping UVs.
+[2023.08.03-17.56.08:868][452]LightingResults: Tree3 Lightmap UV are overlapping by 33.9%. Please adjust content - Enable Error Coloring to visualize.
+[2023.08.03-17.56.08:868][452]LightingResults: Warning: Tree3 Object has overlapping UVs.
+[2023.08.03-17.56.08:868][452]LightingResults: Tree3 Lightmap UV are overlapping by 33.9%. Please adjust content - Enable Error Coloring to visualize.
+[2023.08.03-17.56.08:868][452]LightingResults: Warning: Tree3 Object has overlapping UVs.
+[2023.08.03-17.56.08:868][452]LightingResults: Tree3 Lightmap UV are overlapping by 33.9%. Please adjust content - Enable Error Coloring to visualize.
+[2023.08.03-17.56.09:197][453]LightingResults: Warning: Tree3 Object has overlapping UVs.
+[2023.08.03-17.56.09:197][453]LightingResults: Tree3 Lightmap UV are overlapping by 33.9%. Please adjust content - Enable Error Coloring to visualize.
+[2023.08.03-17.56.09:531][454]LightingResults: Warning: Tree3 Object has overlapping UVs.
+[2023.08.03-17.56.09:531][454]LightingResults: Tree3 Lightmap UV are overlapping by 33.9%. Please adjust content - Enable Error Coloring to visualize.
+[2023.08.03-17.56.11:944][462]Job is a success!
+[2023.08.03-17.56.12:665][463]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.024s
+[2023.08.03-17.56.12:665][463]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.08.03-17.56.12:665][463]LogVolumetricLightmapImport:      BrickData (all levels) 0.8Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2023.08.03-17.56.12:665][463]LogVolumetricLightmapImport:      Bricks at depth
+[2023.08.03-17.56.12:665][463]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2023.08.03-17.56.12:665][463]LogVolumetricLightmapImport:          1: 7.2% covering 25.0% of volume
+[2023.08.03-17.56.12:665][463]LogVolumetricLightmapImport:          2: 92.3% covering 5.0% of volume
+[2023.08.03-17.56.12:665][463]LogVolumetricLightmapImport:      Bricks in each level
+[2023.08.03-17.56.12:665][463]LogVolumetricLightmapImport:          LVL_Main 			 221 bricks 	 100.0% (Persistent Level)
+[2023.08.03-17.56.12:977][463]LogTexture: Display: Building textures: /Game/Levels/LVL_Main_BuiltData.LVL_Main_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 86.104156 MB), EncodeSpeed: Fast
+[2023.08.03-17.56.13:017][463]LogTexture: Display: Building textures: /Game/Levels/LVL_Main_BuiltData.LVL_Main_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 94.604155 MB), EncodeSpeed: Fast
+[2023.08.03-17.56.13:037][463]LogTexture: Display: Building textures: /Game/Levels/LVL_Main_BuiltData.LVL_Main_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 86.104156 MB), EncodeSpeed: Fast
+[2023.08.03-17.56.13:070][463]LogTexture: Display: Building textures: /Game/Levels/LVL_Main_BuiltData.LVL_Main_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 94.604155 MB), EncodeSpeed: Fast
+[2023.08.03-17.56.13:101][463]LogTexture: Display: Building textures: /Game/Levels/LVL_Main_BuiltData.LVL_Main_BuiltData:HQ_Lightmap1_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 86.104156 MB), EncodeSpeed: Fast
+[2023.08.03-17.56.13:126][463]LogTexture: Display: Building textures: /Game/Levels/LVL_Main_BuiltData.LVL_Main_BuiltData:LQ_Lightmap_1_3 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 94.604155 MB), EncodeSpeed: Fast
+[2023.08.03-17.56.13:162][463]Lightmass on DESKTOP-EO3LD2B: 22.6 sec total, 466 ms importing, 390 ms setup, 3.79 sec photons, 18.0 sec processing, 0 us extra exporting [256/256 mappings]. Threads: 2:06 min total, 39.2 sec processing.
+[2023.08.03-17.56.13:188][463]LogStaticLightingSystem: LVL_Main_BuiltData storing lightmap data for 163 meshes in 3 LightmapResourceClusters (54.3 Meshes per cluster).
+[2023.08.03-17.56.13:270][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.08.03-17.56.13:290][463]LogStaticLightingSystem: Illumination: 53.8 sec (230 ms encoding lightmaps, 19 us encoding shadowmaps)
+[2023.08.03-17.56.13:290][463]LogStaticLightingSystem: Lightmap texture memory:  6.2 MB (6.2 MB streaming, 0.0 MB non-streaming), 6 textures
+[2023.08.03-17.56.13:290][463]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2023.08.03-17.56.14:416][463]DumpUnbuiltLightIteractions
+[2023.08.03-17.56.14:416][463]Lights with unbuilt interactions: 0
+[2023.08.03-17.56.14:416][463]
+[2023.08.03-17.56.14:416][463]Primitives with unbuilt interactions: 0
+[2023.08.03-17.56.16:399][464]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.08.03-17.56.16:399][464]MapCheck: New page: LVL_Main - 3 Aug 2023, 19:56:16
+[2023.08.03-17.56.16:400][464]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.424ms to complete.
+[2023.08.03-18.01.02:750][448]LogSlate: Window 'Message Log' being destroyed
+[2023.08.03-18.01.02:754][448]LogSlate: Window 'Message Log' being destroyed
+[2023.08.03-18.01.05:192][668]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.08.03-18.01.05:214][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.03-18.01.05:214][668]PIE: New page: PIE session: LVL_Main (3 Aug 2023, 20:01:05)
+[2023.08.03-18.01.05:214][668]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_Main
+[2023.08.03-18.01.05:238][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023915s)
+[2023.08.03-18.01.05:238][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_Main.LVL_Main to /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main (0.023944s)
+[2023.08.03-18.01.05:238][668]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.03-18.01.05:238][668]LogAIModule: Creating AISystem for world LVL_Main
+[2023.08.03-18.01.05:239][668]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2023.08.03-18.01.05:264][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.08.03-18.01.05:271][668]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.08.03-18.01.05:271][668]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.03-18.01.05:271][668]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.03-18.01.05:271][668]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.03-18.01.05:271][668]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.03-18.01.05:271][668]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.03-18.01.05:271][668]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.03-18.01.05:271][668]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.03-18.01.05:271][668]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.03-18.01.05:272][668]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.03-18.01.05:272][668]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.03-18.01.05:272][668]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.03-18.01.05:273][668]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.03-18.01.05:291][668]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- DAC-X6)
+[2023.08.03-18.01.05:292][668]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.03-18.01.05:292][668]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.03-18.01.05:292][668]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.03-18.01.05:292][668]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2023.08.03-18.01.05:292][668]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2023.08.03-18.01.05:294][668]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2023.08.03-18.01.05:294][668]LogInit: FAudioDevice initialized.
+[2023.08.03-18.01.05:294][668]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2023.08.03-18.01.05:294][668]LogAudio: Display: Audio Device (ID: 34) registered with world 'LVL_Main'.
+[2023.08.03-18.01.05:322][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.03-18.01.05:322][668]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_10 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_11 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_12 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_13 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_17 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_18 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_19 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_20 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_21 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_22 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_25 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_26 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_27 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_28 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_29 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_30 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_33 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_34 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_35 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_36 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_37 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_38 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_41 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_42 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_43 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_44 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_45 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_46 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_50 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_51 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_52 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:327][668]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_53 : Fixed up deleted layer weightmap 
+[2023.08.03-18.01.05:328][668]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main up for play (max tick rate 0) at 2023.08.03-19.01.05
+[2023.08.03-18.01.05:329][668]LogWorld: Bringing up level for play took: 0.006376
+[2023.08.03-18.01.05:331][668]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2023.08.03-18.01.05:336][668]PIE: Server logged in
+[2023.08.03-18.01.05:337][668]PIE: Play in editor total start time 0.124 seconds.
+[2023.08.03-18.01.05:384][668]LogViewport: Scene viewport resized to 2554x1370, mode Windowed.
+[2023.08.03-18.01.12:931][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.03-18.01.12:931][315]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_Main
+[2023.08.03-18.01.12:932][315]LogSlate: Window 'Shooter Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.08.03-18.01.12:953][315]LogWorld: UWorld::CleanupWorld for LVL_Main, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-18.01.12:954][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-18.01.12:956][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.03-18.01.12:962][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-18.01.12:989][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.08.03-18.01.12:991][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.08.03-18.01.12:998][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.08.03-18.01.13:036][316]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2023.08.03-18.01.57:263][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.08.03-18.01.57:280][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Main" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Saved/Autosaves/Game/Levels/LVL_Main_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.08.03-18.01.57:392][222]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/LVL_Main_Auto1
+[2023.08.03-18.01.57:392][222]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/LVL_Main_Auto14C851E86485ABF417BEFCEA6FA617B3C.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/Autosaves/Game/Levels/LVL_Main_Auto1.umap'
+[2023.08.03-18.01.57:401][222]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Temp/Autosaves/Game/Levels/LVL_Main_Auto1.
+[2023.08.03-18.01.57:403][222]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LVL_Main' took 0.165
+[2023.08.03-18.01.57:403][222]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.165
+[2023.08.03-18.02.41:841][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.08.03-18.02.41:845][988]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.03-18.02.41:876][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Main" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Levels/LVL_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.03-18.02.41:901][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.08.03-18.02.42:013][988]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Main
+[2023.08.03-18.02.42:013][988]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/LVL_MainF309025F438E3DE228D8A784D2965951.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Levels/LVL_Main.umap'
+[2023.08.03-18.02.42:054][988]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Levels/LVL_Main_BuiltData
+[2023.08.03-18.02.42:054][988]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.03-18.02.42:054][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Main_BuiltData" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Levels/LVL_Main_BuiltData.uasset" SILENT=true
+[2023.08.03-18.02.42:135][988]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Main_BuiltData
+[2023.08.03-18.02.42:147][988]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/LVL_Main_BuiltDataDAB03DAC48716775FF172FBB451EA7C5.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Levels/LVL_Main_BuiltData.uasset'
+[2023.08.03-18.02.42:147][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 4.17 sec)
+[2023.08.03-18.02.42:147][988]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Levels/LVL_Main_BuiltData
+[2023.08.03-18.02.42:147][988]LogFileHelpers: Saving map 'LVL_Main' took 0.272
+[2023.08.03-18.02.42:148][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Main_BuiltData" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Levels/LVL_Main_BuiltData.uasset" SILENT=true
+[2023.08.03-18.02.42:219][988]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Main_BuiltData
+[2023.08.03-18.02.42:219][988]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/LVL_Main_BuiltDataD032DC4748027D41BB84E9AB2A043AD2.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Levels/LVL_Main_BuiltData.uasset'
+[2023.08.03-18.02.42:251][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 406 ms (total: 4.57 sec)
+[2023.08.03-18.02.42:967][988]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.03-18.02.42:967][988]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Main.LVL_Main
+[2023.08.03-18.02.42:967][988]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/Levels/LVL_Main_BuiltData.LVL_Main_BuiltData
+[2023.08.03-18.02.48:394][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.08.03-18.02.57:728][467]LogTurnkeySupport: Project does not require temp target
+[2023.08.03-18.02.57:743][467]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UnrealGame.target
+[2023.08.03-18.02.58:039][467]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""H:/Programs/UE_5.1/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="H:/Repos/Top-Down-Shooter/Shooter/Shooter.uproject" Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=61802  -project="H:/Repos/Top-Down-Shooter/Shooter/Shooter.uproject" BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook  -project="H:/Repos/Top-Down-Shooter/Shooter/Shooter.uproject"  -unrealexe="H:\Programs\UE_5.1\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -installed -stage -archive -package -pak -iostore -compressed -prereqs -archivedirectory="C:/Users/craft/Desktop/The Trench" -nodebuginfo" -nocompile -nocompileuat ]
+[2023.08.03-18.02.58:083][467]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave CompileSuccess...
+[2023.08.03-18.02.58:087][467]LogAudio: Display: Chunk size for SoundWave /Engine/EditorSounds/Notifications/CompileSuccess.CompileSuccess: 262144
+[2023.08.03-18.02.58:101][467]UATHelper: Packaging (Windows): Running AutomationTool...
+[2023.08.03-18.02.58:178][467]UATHelper: Packaging (Windows): Using bundled DotNet SDK version: 6.0.302
+[2023.08.03-18.02.59:351][483]UATHelper: Packaging (Windows): Starting AutomationTool...
+[2023.08.03-18.02.59:450][483]UATHelper: Packaging (Windows): Parsing command line: -ScriptsForProject=H:/Repos/Top-Down-Shooter/Shooter/Shooter.uproject Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=61802 -project=H:/Repos/Top-Down-Shooter/Shooter/Shooter.uproject BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook -project=H:/Repos/Top-Down-Shooter/Shooter/Shooter.uproject -unrealexe=H:\Programs\UE_5.1\Engine\Binaries\Win64\UnrealEditor-Cmd.exe -platform=Win64 -installed -stage -archive -package -pak -iostore -compressed -prereqs -archivedirectory="C:/Users/craft/Desktop/The Trench" -nodebuginfo -nocompile -nocompileuat
+[2023.08.03-18.02.59:933][485]UATHelper: Packaging (Windows): Initializing script modules...
+[2023.08.03-18.03.00:360][486]UATHelper: Packaging (Windows): Total script module initialization time: 0.42 s.
+[2023.08.03-18.03.03:122][527]UATHelper: Packaging (Windows): Executing commands...
+[2023.08.03-18.03.03:331][527]UATHelper: Packaging (Windows): Installed Sdk validity:
+[2023.08.03-18.03.03:342][527]UATHelper: Packaging (Windows): Win64: (Status=Valid, MinAllowed_Sdk=10.0.00000.0, MaxAllowed_Sdk=10.9.99999.0, Current_Sdk=10.0.22621.0, Allowed_AutoSdk=10.0.18362.0, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists")
+[2023.08.03-18.03.03:342][527]UATHelper: Packaging (Windows): Scanning for envvar changes...
+[2023.08.03-18.03.03:342][527]UATHelper: Packaging (Windows): ... done! 
+[2023.08.03-18.03.03:342][527]UATHelper: Packaging (Windows): Cleaning Temp Paths...
+[2023.08.03-18.03.03:342][527]UATHelper: Packaging (Windows): BUILD SUCCESSFUL
+[2023.08.03-18.03.03:342][527]UATHelper: Packaging (Windows): Setting up ProjectParams for H:\Repos\Top-Down-Shooter\Shooter\Shooter.uproject
+[2023.08.03-18.03.05:205][533]UATHelper: Packaging (Windows): ********** COOK COMMAND STARTED **********
+[2023.08.03-18.03.05:205][533]UATHelper: Packaging (Windows): Running UnrealEditor Cook for project H:\Repos\Top-Down-Shooter\Shooter\Shooter.uproject
+[2023.08.03-18.03.05:217][533]UATHelper: Packaging (Windows): Commandlet log file is H:\Programs\UE_5.1\Engine\Programs\AutomationTool\Saved\Cook-2023.08.03-19.03.05.txt
+[2023.08.03-18.03.05:217][533]UATHelper: Packaging (Windows): Running: H:\Programs\UE_5.1\Engine\Binaries\Win64\UnrealEditor-Cmd.exe H:\Repos\Top-Down-Shooter\Shooter\Shooter.uproject -run=Cook  -TargetPlatform=Windows  -unversioned -fileopenlog -abslog=H:\Programs\UE_5.1\Engine\Programs\AutomationTool\Saved\Cook-2023.08.03-19.03.05.txt -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2023.08.03-18.03.07:245][539]UATHelper: Packaging (Windows): LogInit: Display: Running engine for game: Shooter
+[2023.08.03-18.03.07:245][539]UATHelper: Packaging (Windows): LogCore: Display: Requested channels: 'cpu,gpu,frame,log,bookmark'
+[2023.08.03-18.03.07:245][539]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : platform="Windows"
+[2023.08.03-18.03.07:245][539]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : config="Development"
+[2023.08.03-18.03.07:245][539]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.1-CL-23901901"
+[2023.08.03-18.03.07:245][539]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : engineversion="5.1.1-23901901+++UE5+Release-5.1"
+[2023.08.03-18.03.07:245][539]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : commandline="" H:\Repos\Top-Down-Shooter\Shooter\Shooter.uproject -run=Cook -TargetPlatform=Windows -unversioned -fileopenlog -abslog=H:\Programs\UE_5.1\Engine\Programs\AutomationTool\Saved\Cook-2023.08.03-19.03.05.txt -stdout -CrashForUAT -unattended -NoLogTimes -UTF8Output""
+[2023.08.03-18.03.07:245][539]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.3208] "
+[2023.08.03-18.03.07:245][539]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz"
+[2023.08.03-18.03.07:245][539]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+[2023.08.03-18.03.07:245][539]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : loginid="137ad0af424c9e05f82d40b79c486656"
+[2023.08.03-18.03.07:245][539]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : asan="0"
+[2023.08.03-18.03.07:606][540]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : llm="0"
+[2023.08.03-18.03.07:606][540]UATHelper: Packaging (Windows): LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+[2023.08.03-18.03.07:606][540]UATHelper: Packaging (Windows): LogConfig: Display: Loading Android ini files took 0.03 seconds
+[2023.08.03-18.03.07:606][540]UATHelper: Packaging (Windows): LogConfig: Display: Loading IOS ini files took 0.03 seconds
+[2023.08.03-18.03.07:606][540]UATHelper: Packaging (Windows): LogConfig: Display: Loading Linux ini files took 0.03 seconds
+[2023.08.03-18.03.07:606][540]UATHelper: Packaging (Windows): LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+[2023.08.03-18.03.07:606][540]UATHelper: Packaging (Windows): LogConfig: Display: Loading Mac ini files took 0.02 seconds
+[2023.08.03-18.03.07:606][540]UATHelper: Packaging (Windows): LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+[2023.08.03-18.03.07:606][540]UATHelper: Packaging (Windows): LogConfig: Display: Loading Unix ini files took 0.02 seconds
+[2023.08.03-18.03.07:606][540]UATHelper: Packaging (Windows): LogConfig: Display: Loading TVOS ini files took 0.02 seconds
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogConfig: Display: Loading Windows ini files took 0.02 seconds
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GLTFImporter/Content/' mounted to '/GLTFImporter/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioWidgets/Content/' mounted to '/AudioWidgets/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Metasound/Content/' mounted to '/Metasound/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/WaveTable/Content/' mounted to '/WaveTable/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/GLTFExporter/Content/' mounted to '/GLTFExporter/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+[2023.08.03-18.03.07:694][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
+[2023.08.03-18.03.07:705][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+[2023.08.03-18.03.07:705][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+[2023.08.03-18.03.07:705][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+[2023.08.03-18.03.07:705][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Dataflow/Content/' mounted to '/Dataflow/'
+[2023.08.03-18.03.07:705][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+[2023.08.03-18.03.07:705][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+[2023.08.03-18.03.07:705][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+[2023.08.03-18.03.07:705][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+[2023.08.03-18.03.07:705][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+[2023.08.03-18.03.07:705][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+[2023.08.03-18.03.07:705][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/UVEditor/Content/' mounted to '/UVEditor/'
+[2023.08.03-18.03.07:705][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+[2023.08.03-18.03.07:705][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaPlate/Content/' mounted to '/MediaPlate/'
+[2023.08.03-18.03.07:705][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+[2023.08.03-18.03.07:705][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+[2023.08.03-18.03.07:705][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Interchange/Runtime/Content/' mounted to '/Interchange/'
+[2023.08.03-18.03.07:705][540]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
+[2023.08.03-18.03.09:053][545]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
+[2023.08.03-18.03.09:053][545]UATHelper: Packaging (Windows): LogHAL: Display: Platform has ~ 32 GB [34265153536 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.08.03-18.03.09:228][545]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.08.03-18.03.09:228][545]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatASTC
+[2023.08.03-18.03.09:228][545]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatDXT
+[2023.08.03-18.03.09:228][545]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatETC2
+[2023.08.03-18.03.09:228][545]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatIntelISPCTexComp
+[2023.08.03-18.03.09:228][545]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatUncompressed
+[2023.08.03-18.03.09:228][545]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.8
+[2023.08.03-18.03.09:239][545]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.08.03-18.03.09:250][545]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.6.dll
+[2023.08.03-18.03.09:272][545]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.7.dll
+[2023.08.03-18.03.09:283][545]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+[2023.08.03-18.03.09:305][545]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatOodle
+[2023.08.03-18.03.09:305][545]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.08.03-18.03.09:305][545]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.08.03-18.03.09:305][545]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.08.03-18.03.09:305][545]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.08.03-18.03.09:305][545]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.08.03-18.03.09:305][545]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.08.03-18.03.09:305][545]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.08.03-18.03.09:305][545]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.08.03-18.03.09:305][545]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.08.03-18.03.09:316][545]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.08.03-18.03.09:316][545]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.08.03-18.03.09:337][545]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.08.03-18.03.09:337][545]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.08.03-18.03.09:348][545]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.08.03-18.03.09:348][545]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.08.03-18.03.09:359][545]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.08.03-18.03.09:359][545]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.08.03-18.03.09:370][545]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.08.03-18.03.09:370][545]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.08.03-18.03.09:370][545]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.08.03-18.03.09:381][546]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.08.03-18.03.09:381][546]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.08.03-18.03.09:414][546]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.08.03-18.03.09:414][546]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.08.03-18.03.09:414][546]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.08.03-18.03.09:414][546]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.08.03-18.03.09:414][546]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.08.03-18.03.09:491][546]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.08.03-18.03.12:000][553]UATHelper: Packaging (Windows): LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.08.03-18.03.12:044][553]UATHelper: Packaging (Windows): LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1363 MiB)
+[2023.08.03-18.03.12:044][553]UATHelper: Packaging (Windows): LogDerivedDataCache: Display: Performance to C:/Users/craft/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=25.75MBs, RandomWriteSpeed=225.32MBs. Assigned SpeedClass 'Local'
+[2023.08.03-18.03.12:044][553]UATHelper: Packaging (Windows): LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2023.08.03-18.03.12:044][553]UATHelper: Packaging (Windows): LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.08.03-18.03.15:656][567]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2023.08.03-18.03.15:656][567]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Repos/Top-Down-Shooter/Shooter/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.08.03-18.03.15:689][567]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.08.03-18.03.16:115][568]UATHelper: Packaging (Windows): LogEditorDomain: Display: EditorDomain is Disabled
+[2023.08.03-18.03.16:115][568]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.08.03-18.03.16:115][568]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Repos/Top-Down-Shooter/Shooter/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+[2023.08.03-18.03.16:115][568]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.08.03-18.03.16:126][569]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Repos/Top-Down-Shooter/Shooter/Intermediate/ShaderAutogen/PCD3D_ES3_1/AutogenShaderHeaders.ush
+[2023.08.03-18.03.18:406][575]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.08.03-18.03.21:664][585]UATHelper: Packaging (Windows): LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.08.03-18.03.21:664][585]UATHelper: Packaging (Windows): LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.08.03-18.03.23:735][591]UATHelper: Packaging (Windows): LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.08.03-18.03.23:922][592]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.08.03-18.03.24:404][593]UATHelper: Packaging (Windows): LogEditorDomain: Display: Class /Script/AnimationData.AnimationSequencerDataModel is imported by a package but does not exist in memory. EditorDomain keys for packages using it will be invalid if it still exists.
+[2023.08.03-18.03.24:404][593]UATHelper: Packaging (Windows): 	To clear this message, resave packages that use the deleted class, or load its module earlier than the packages that use it are referenced.
+[2023.08.03-18.03.24:415][593]UATHelper: Packaging (Windows): LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 0MiB, MemoryMinFreeVirtual 2048MiB, MemoryMinFreePhysical 2048MiB
+[2023.08.03-18.03.24:503][594]UATHelper: Packaging (Windows): LogCook: Display: Waiting for Asset Registry
+[2023.08.03-18.03.24:645][594]UATHelper: Packaging (Windows): LogCook: Display: Clearing all cooked content for platform Windows
+[2023.08.03-18.03.24:645][594]UATHelper: Packaging (Windows): LogCook: Display: Sandbox cleanup took 0.120 seconds for platforms Windows
+[2023.08.03-18.07.38:772][933]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.LVL_Main
+[2023.08.03-18.07.38:773][933]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.03-18.07.54:489][893]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave CompileFailed...
+[2023.08.03-18.07.54:494][893]LogAudio: Display: Chunk size for SoundWave /Engine/EditorSounds/Notifications/CompileFailed.CompileFailed: 262144
+[2023.08.03-18.08.06:993][904]LogSlate: Took 0.028376 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.08.03-18.08.09:738][119]BlueprintLog: New page: Compile LVL_Main
+[2023.08.03-18.08.09:966][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.08.03-18.09.27:160][991]BlueprintLog: New page: Compile LVL_Main
+[2023.08.03-18.09.27:302][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.08.03-18.09.28:377][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.03-18.09.28:405][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Main" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Levels/LVL_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.03-18.09.28:440][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.08.03-18.09.28:555][ 61]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Main
+[2023.08.03-18.09.28:555][ 61]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/LVL_Main12C2D346461FEB0E506B8BB8C58CF03E.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Levels/LVL_Main.umap'
+[2023.08.03-18.09.28:585][ 61]LogFileHelpers: No new changes to save!
+[2023.08.03-18.09.28:585][ 61]LogFileHelpers: Saving map 'LVL_Main' took 0.181
+[2023.08.03-18.09.28:594][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 217 ms (total: 4.79 sec)
+[2023.08.03-18.09.28:601][ 61]AssetCheck: New page: Asset Save: LVL_Main
+[2023.08.03-18.09.28:601][ 61]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Main.LVL_Main
