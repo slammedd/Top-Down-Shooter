@@ -3278,3 +3278,410 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.03-17.10.29:822][700]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
 [2023.08.03-17.10.29:833][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
 [2023.08.03-17.10.29:875][701]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.08.03-17.11.11:151][ 73]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-17.11.11:151][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-17.11.11:809][115]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-17.11.11:809][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-17.11.12:624][157]LogSlate: Window 'WB_Main_Menu' being destroyed
+[2023.08.03-17.11.12:639][157]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-17.11.12:639][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-17.11.12:650][157]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-17.11.12:650][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-17.11.16:918][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.08.03-17.11.17:031][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_10 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:031][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_11 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:031][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_12 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:031][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_13 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:031][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_17 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:031][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_18 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:031][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_19 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:031][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_20 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:031][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_21 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:031][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_22 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:031][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_25 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:031][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_26 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:031][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_27 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:031][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_28 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:031][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_29 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:031][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_30 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:031][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_33 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:031][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_34 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:031][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_35 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:032][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_36 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:032][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_37 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:032][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_38 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:032][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_41 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:032][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_42 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:032][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_43 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:032][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_44 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:032][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_45 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:032][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_46 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:032][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_50 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:032][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_51 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:032][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_52 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:032][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_53 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:035][576]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LVL_Main.LVL_Main
+[2023.08.03-17.11.17:035][576]Cmd: MAP LOAD FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Levels/LVL_Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.08.03-17.11.17:035][576]LightingResults: New page: Lighting Build
+[2023.08.03-17.11.17:035][576]LoadErrors: New page: Loading map: LVL_Main.umap
+[2023.08.03-17.11.17:040][576]LogWorld: UWorld::CleanupWorld for LVL_Menu, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-17.11.17:040][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-17.11.17:040][576]MapCheck: New page: Map Check
+[2023.08.03-17.11.17:040][576]LightingResults: New page: Lighting Build
+[2023.08.03-17.11.17:066][576]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.03-17.11.17:073][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.08.03-17.11.17:134][576]LogWorld: UWorld::CleanupWorld for LVL_Main, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-17.11.17:135][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-17.11.17:177][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.08.03-17.11.17:208][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.08.03-17.11.17:290][576]LogAudio: Display: Audio Device (ID: 1) registered with world 'LVL_Main'.
+[2023.08.03-17.11.17:290][576]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.03-17.11.17:290][576]LogAIModule: Creating AISystem for world LVL_Main
+[2023.08.03-17.11.17:302][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_10 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:302][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_11 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:302][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_12 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:302][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_13 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:302][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_17 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:302][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_18 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:302][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_19 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:302][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_20 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:302][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_21 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:302][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_22 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_25 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_26 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_27 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_28 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_29 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_30 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_33 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_34 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_35 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_36 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_37 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_38 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_41 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_42 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_43 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_44 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_45 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_46 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_50 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_51 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_52 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:303][576]MapCheck: Warning: /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_53 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.17:583][576]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.08.03-17.11.17:618][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.08.03-17.11.17:657][576]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.08.03-17.11.17:658][576]MapCheck: Map check complete: 0 Error(s), 32 Warning(s), took 0.369ms to complete.
+[2023.08.03-17.11.17:710][576]LogFileHelpers: Loading map 'LVL_Main' took 0.675
+[2023.08.03-17.11.22:567][ 23]LogSlate: Window 'Message Log' being destroyed
+[2023.08.03-17.11.22:572][ 23]LogSlate: Window 'Message Log' being destroyed
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_10 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_11 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_12 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_13 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_17 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_18 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_19 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_20 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_21 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_22 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_25 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_26 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_27 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_28 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_29 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_30 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_33 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_34 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_35 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_36 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_37 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_38 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_41 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_42 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_43 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_44 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_45 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_46 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_50 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_51 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_52 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.40:301][199]MapCheck: Warning: /Game/Levels/LVL_Menu.LVL_Menu:PersistentLevel.Landscape_1.LandscapeComponent_53 : Fixed up deleted layer weightmap 
+[2023.08.03-17.11.42:450][340]LogSlate: Window 'Project Settings' being destroyed
+[2023.08.03-17.11.42:454][340]LogSlate: Window 'Project Settings' being destroyed
+[2023.08.03-17.11.52:656][ 60]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Power-Ups/BP_Golden_Gun.BP_Golden_Gun
+[2023.08.03-17.11.52:656][ 60]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.03-17.12.00:563][736]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.08.03-17.12.00:564][736]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.03-17.12.19:017][155]LogViewport: Scene viewport resized to 1267x1029, mode Windowed.
+[2023.08.03-17.12.33:889][249]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Power-Ups/BP_Golden_Gun.BP_Golden_Gun_C
+[2023.08.03-17.12.33:889][249]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Power-Ups/BP_Golden_Gun.BP_Golden_Gun_C
+[2023.08.03-17.12.33:890][249]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Power-Ups/BP_Golden_Gun.BP_Golden_Gun as actor: BP_Golden_Gun_C /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.BP_Golden_Gun_C_0
+[2023.08.03-17.12.33:892][249]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Power-Ups/BP_Golden_Gun.BP_Golden_Gun as actor: BP_Golden_Gun_C /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.BP_Golden_Gun_C_0
+[2023.08.03-17.12.34:109][261]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Power-Ups/BP_Golden_Gun.BP_Golden_Gun_C
+[2023.08.03-17.12.34:109][261]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Power-Ups/BP_Golden_Gun.BP_Golden_Gun_C
+[2023.08.03-17.12.34:111][261]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Power-Ups/BP_Golden_Gun.BP_Golden_Gun as actor: BP_Golden_Gun_C /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.BP_Golden_Gun_C_1
+[2023.08.03-17.12.34:113][261]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Power-Ups/BP_Golden_Gun.BP_Golden_Gun as actor: BP_Golden_Gun_C /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.BP_Golden_Gun_C_1
+[2023.08.03-17.12.36:286][494]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.08.03-17.12.36:320][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.03-17.12.36:320][494]PIE: New page: PIE session: LVL_Main (3 Aug 2023, 19:12:36)
+[2023.08.03-17.12.36:320][494]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_Main
+[2023.08.03-17.12.36:341][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022624s)
+[2023.08.03-17.12.36:342][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_Main.LVL_Main to /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main (0.022650s)
+[2023.08.03-17.12.36:342][494]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.03-17.12.36:342][494]LogAIModule: Creating AISystem for world LVL_Main
+[2023.08.03-17.12.36:342][494]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2023.08.03-17.12.36:438][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.08.03-17.12.36:440][494]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.08.03-17.12.36:440][494]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.03-17.12.36:440][494]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.03-17.12.36:440][494]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.03-17.12.36:440][494]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.03-17.12.36:440][494]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.03-17.12.36:440][494]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.03-17.12.36:440][494]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.03-17.12.36:440][494]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.03-17.12.36:441][494]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.03-17.12.36:441][494]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.03-17.12.36:441][494]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.03-17.12.36:442][494]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.03-17.12.36:460][494]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- DAC-X6)
+[2023.08.03-17.12.36:461][494]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.03-17.12.36:461][494]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.03-17.12.36:461][494]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.03-17.12.36:461][494]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.08.03-17.12.36:461][494]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.08.03-17.12.36:463][494]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.08.03-17.12.36:463][494]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.08.03-17.12.36:463][494]LogInit: FAudioDevice initialized.
+[2023.08.03-17.12.36:463][494]LogAudio: Display: Audio Device (ID: 17) registered with world 'LVL_Main'.
+[2023.08.03-17.12.36:489][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.03-17.12.36:489][494]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.03-17.12.36:493][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_10 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:493][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_11 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:493][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_12 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:493][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_13 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:493][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_17 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:493][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_18 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:493][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_19 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:493][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_20 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:493][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_21 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:493][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_22 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:493][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_25 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:493][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_26 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:493][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_27 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:493][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_28 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:493][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_29 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:493][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_30 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:493][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_33 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:493][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_34 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:493][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_35 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:494][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_36 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:494][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_37 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:494][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_38 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:494][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_41 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:494][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_42 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:494][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_43 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:494][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_44 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:494][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_45 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:494][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_46 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:494][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_50 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:494][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_51 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:494][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_52 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:494][494]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_53 : Fixed up deleted layer weightmap 
+[2023.08.03-17.12.36:495][494]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main up for play (max tick rate 0) at 2023.08.03-18.12.36
+[2023.08.03-17.12.36:495][494]LogWorld: Bringing up level for play took: 0.006109
+[2023.08.03-17.12.36:497][494]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2023.08.03-17.12.36:513][494]PIE: Server logged in
+[2023.08.03-17.12.36:526][494]PIE: Play in editor total start time 0.219 seconds.
+[2023.08.03-17.12.36:562][494]LogViewport: Scene viewport resized to 1117x683, mode Windowed.
+[2023.08.03-17.12.47:850][400]LogViewport: Scene viewport resized to 2560x1376, mode Windowed.
+[2023.08.03-17.12.54:047][872]LogBlueprintUserMessages: [BP_Rifleman_C_0] Rifleman Dead
+[2023.08.03-17.12.54:489][900]LogBlueprintUserMessages: [BP_Rifleman_C_1] Rifleman Dead
+[2023.08.03-17.13.03:777][676]LogBlueprintUserMessages: [BP_Flamer_C_0] Flamer Dead
+[2023.08.03-17.13.14:032][518]LogBlueprintUserMessages: [BP_Rifleman_C_6] Rifleman Dead
+[2023.08.03-17.13.18:089][841]LogBlueprintUserMessages: [BP_Rifleman_C_4] Rifleman Dead
+[2023.08.03-17.13.19:553][959]LogBlueprintUserMessages: [BP_Rifleman_C_7] Rifleman Dead
+[2023.08.03-17.13.22:689][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.03-17.13.22:689][217]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_Main
+[2023.08.03-17.13.22:690][217]LogSlate: Window 'Shooter Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.08.03-17.13.22:697][217]LogWorld: UWorld::CleanupWorld for LVL_Main, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-17.13.22:699][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-17.13.22:702][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.03-17.13.22:710][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-17.13.22:752][217]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.08.03-17.13.22:753][217]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.08.03-17.13.22:764][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.08.03-17.13.22:808][218]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.08.03-17.13.24:722][414]Cmd: DELETE
+[2023.08.03-17.13.24:722][414]Cmd: ACTOR DELETE
+[2023.08.03-17.13.24:732][414]LogEditorActor: Deleted Actor: BP_Golden_Gun_C
+[2023.08.03-17.13.24:773][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.08.03-17.13.24:777][414]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2023.08.03-17.13.41:960][428]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Power-Ups/BP_Bombing_Run.BP_Bombing_Run
+[2023.08.03-17.13.41:961][428]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.03-17.14.06:319][916]LogEditorTransaction: Undo Add Node
+[2023.08.03-17.14.50:454][352]LogEditorTransaction: Undo Move Node
+[2023.08.03-17.15.06:587][897]BlueprintLog: New page: Compile BP_Bombing_Run
+[2023.08.03-17.15.06:661][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.08.03-17.15.07:233][944]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.03-17.15.07:272][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Power-Ups/BP_Bombing_Run" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Blueprints/Power-Ups/BP_Bombing_Run.uasset" SILENT=true
+[2023.08.03-17.15.07:281][944]LogSavePackage: Moving output files for package: /Game/Blueprints/Power-Ups/BP_Bombing_Run
+[2023.08.03-17.15.07:281][944]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/BP_Bombing_RunEEB058234464111D7A3F6C9A963D5A65.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Blueprints/Power-Ups/BP_Bombing_Run.uasset'
+[2023.08.03-17.15.07:288][944]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 2.03 sec)
+[2023.08.03-17.15.07:295][944]AssetCheck: New page: Asset Save: BP_Bombing_Run
+[2023.08.03-17.15.07:295][944]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Power-Ups/BP_Bombing_Run.BP_Bombing_Run
+[2023.08.03-17.15.51:067][232]BlueprintLog: New page: Compile BP_Golden_Gun
+[2023.08.03-17.15.51:139][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.08.03-17.15.51:661][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.03-17.15.51:703][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Power-Ups/BP_Golden_Gun" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Blueprints/Power-Ups/BP_Golden_Gun.uasset" SILENT=true
+[2023.08.03-17.15.51:711][271]LogSavePackage: Moving output files for package: /Game/Blueprints/Power-Ups/BP_Golden_Gun
+[2023.08.03-17.15.51:712][271]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/BP_Golden_GunBF5C48154F86F46B69F13080A567DE90.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Blueprints/Power-Ups/BP_Golden_Gun.uasset'
+[2023.08.03-17.15.51:730][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 2.10 sec)
+[2023.08.03-17.15.51:737][271]AssetCheck: New page: Asset Save: BP_Golden_Gun
+[2023.08.03-17.15.51:737][271]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Power-Ups/BP_Golden_Gun.BP_Golden_Gun
+[2023.08.03-17.15.53:089][380]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Power-Ups/BP_Healing_Pack.BP_Healing_Pack
+[2023.08.03-17.15.53:089][380]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.03-17.15.55:450][523]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-17.15.55:450][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-17.15.56:679][616]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Power-Ups/BP_Shield_Sphere.BP_Shield_Sphere
+[2023.08.03-17.15.56:679][616]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.03-17.16.23:796][982]BlueprintLog: New page: Compile BP_Shield_Sphere
+[2023.08.03-17.16.23:883][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.08.03-17.16.24:293][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.03-17.16.24:335][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Power-Ups/BP_Shield_Sphere" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Blueprints/Power-Ups/BP_Shield_Sphere.uasset" SILENT=true
+[2023.08.03-17.16.24:344][  9]LogSavePackage: Moving output files for package: /Game/Blueprints/Power-Ups/BP_Shield_Sphere
+[2023.08.03-17.16.24:344][  9]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/BP_Shield_SphereA834F1DC49F7697C79923190A64FD504.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Blueprints/Power-Ups/BP_Shield_Sphere.uasset'
+[2023.08.03-17.16.24:351][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 2.16 sec)
+[2023.08.03-17.16.24:359][  9]AssetCheck: New page: Asset Save: BP_Shield_Sphere
+[2023.08.03-17.16.24:359][  9]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Power-Ups/BP_Shield_Sphere.BP_Shield_Sphere
+[2023.08.03-17.17.27:488][352]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-17.17.27:488][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-17.17.29:431][499]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.08.03-17.17.29:431][499]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-17.17.29:431][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-17.17.32:591][747]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Power-Ups/BP_Golden_Gun.BP_Golden_Gun_C
+[2023.08.03-17.17.32:591][747]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Power-Ups/BP_Golden_Gun.BP_Golden_Gun_C
+[2023.08.03-17.17.32:592][747]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Power-Ups/BP_Golden_Gun.BP_Golden_Gun as actor: BP_Golden_Gun_C /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.BP_Golden_Gun_C_2
+[2023.08.03-17.17.32:594][747]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Power-Ups/BP_Golden_Gun.BP_Golden_Gun as actor: BP_Golden_Gun_C /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.BP_Golden_Gun_C_2
+[2023.08.03-17.17.32:861][773]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Power-Ups/BP_Golden_Gun.BP_Golden_Gun_C
+[2023.08.03-17.17.32:861][773]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Power-Ups/BP_Golden_Gun.BP_Golden_Gun_C
+[2023.08.03-17.17.32:863][773]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Power-Ups/BP_Golden_Gun.BP_Golden_Gun as actor: BP_Golden_Gun_C /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.BP_Golden_Gun_C_3
+[2023.08.03-17.17.32:864][773]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Power-Ups/BP_Golden_Gun.BP_Golden_Gun as actor: BP_Golden_Gun_C /Game/Levels/LVL_Main.LVL_Main:PersistentLevel.BP_Golden_Gun_C_3
+[2023.08.03-17.17.35:814][108]Cmd: DUPLICATE
+[2023.08.03-17.17.35:815][108]Cmd: ACTOR DUPLICATE
+[2023.08.03-17.17.36:900][188]Cmd: DUPLICATE
+[2023.08.03-17.17.36:900][188]Cmd: ACTOR DUPLICATE
+[2023.08.03-17.17.38:744][383]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.08.03-17.17.38:765][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.03-17.17.38:765][383]PIE: New page: PIE session: LVL_Main (3 Aug 2023, 19:17:38)
+[2023.08.03-17.17.38:765][383]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_Main
+[2023.08.03-17.17.38:788][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023241s)
+[2023.08.03-17.17.38:788][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_Main.LVL_Main to /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main (0.023266s)
+[2023.08.03-17.17.38:789][383]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.03-17.17.38:789][383]LogAIModule: Creating AISystem for world LVL_Main
+[2023.08.03-17.17.38:789][383]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2023.08.03-17.17.38:832][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.08.03-17.17.38:843][383]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.08.03-17.17.38:843][383]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.03-17.17.38:843][383]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.03-17.17.38:843][383]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.03-17.17.38:843][383]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.03-17.17.38:843][383]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.03-17.17.38:843][383]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.03-17.17.38:843][383]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.03-17.17.38:843][383]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.03-17.17.38:843][383]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.03-17.17.38:843][383]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.03-17.17.38:843][383]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.03-17.17.38:845][383]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.03-17.17.38:864][383]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- DAC-X6)
+[2023.08.03-17.17.38:864][383]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.03-17.17.38:864][383]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.03-17.17.38:864][383]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.03-17.17.38:864][383]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.08.03-17.17.38:864][383]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.08.03-17.17.38:866][383]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.08.03-17.17.38:866][383]LogInit: FAudioDevice initialized.
+[2023.08.03-17.17.38:866][383]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.08.03-17.17.38:866][383]LogAudio: Display: Audio Device (ID: 18) registered with world 'LVL_Main'.
+[2023.08.03-17.17.38:888][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.03-17.17.38:888][383]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.03-17.17.38:892][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_10 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:892][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_11 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:892][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_12 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:892][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_13 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_17 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_18 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_19 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_20 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_21 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_22 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_25 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_26 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_27 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_28 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_29 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_30 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_33 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_34 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_35 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_36 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_37 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_38 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_41 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_42 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_43 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_44 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_45 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_46 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_50 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_51 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_52 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:893][383]MapCheck: Warning: /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main:PersistentLevel.Landscape_1.LandscapeComponent_53 : Fixed up deleted layer weightmap 
+[2023.08.03-17.17.38:894][383]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_Main.LVL_Main up for play (max tick rate 0) at 2023.08.03-18.17.38
+[2023.08.03-17.17.38:895][383]LogWorld: Bringing up level for play took: 0.006320
+[2023.08.03-17.17.38:897][383]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2023.08.03-17.17.38:916][383]PIE: Server logged in
+[2023.08.03-17.17.38:929][383]PIE: Play in editor total start time 0.164 seconds.
+[2023.08.03-17.17.38:987][383]LogViewport: Scene viewport resized to 2554x1370, mode Windowed.
+[2023.08.03-17.17.45:518][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.03-17.17.45:518][933]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_Main
+[2023.08.03-17.17.45:519][933]LogSlate: Window 'Shooter Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.08.03-17.17.45:527][933]LogWorld: UWorld::CleanupWorld for LVL_Main, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-17.17.45:528][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-17.17.45:530][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.03-17.17.45:536][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-17.17.45:576][933]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.03-17.17.45:577][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.08.03-17.17.45:579][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.08.03-17.17.45:586][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.08.03-17.17.45:636][934]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2023.08.03-17.17.46:735][ 56]Cmd: DELETE
+[2023.08.03-17.17.46:735][ 56]Cmd: ACTOR DELETE
+[2023.08.03-17.17.46:745][ 56]LogEditorActor: Deleted Actor: BP_Golden_Gun_C
+[2023.08.03-17.17.46:789][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.08.03-17.17.46:792][ 56]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2023.08.03-17.17.47:206][ 97]Cmd: DELETE
+[2023.08.03-17.17.47:206][ 97]Cmd: ACTOR DELETE
+[2023.08.03-17.17.47:215][ 97]LogEditorActor: Deleted Actor: BP_Golden_Gun_C
+[2023.08.03-17.17.47:256][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.08.03-17.17.47:258][ 97]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2023.08.03-17.17.47:961][173]Cmd: DELETE
+[2023.08.03-17.17.47:961][173]Cmd: ACTOR DELETE
+[2023.08.03-17.17.47:970][173]LogEditorActor: Deleted Actor: BP_Golden_Gun_C
+[2023.08.03-17.17.48:012][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.08.03-17.17.48:014][173]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2023.08.03-17.17.51:502][368]LogSlate: Window 'Save Level As' being destroyed
+[2023.08.03-17.17.53:442][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.08.03-17.17.53:445][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.03-17.17.53:481][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Main" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Levels/LVL_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.03-17.17.53:520][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.08.03-17.17.53:633][533]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Main
+[2023.08.03-17.17.53:634][533]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/LVL_MainA0E1D607447FFDB2891BBB93A7576185.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Levels/LVL_Main.umap'
+[2023.08.03-17.17.53:664][533]LogFileHelpers: No new changes to save!
+[2023.08.03-17.17.53:664][533]LogFileHelpers: Saving map 'LVL_Main' took 0.184
+[2023.08.03-17.17.53:694][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 248 ms (total: 2.41 sec)
+[2023.08.03-17.17.53:701][533]AssetCheck: New page: Asset Save: LVL_Main
+[2023.08.03-17.17.53:701][533]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Main.LVL_Main
