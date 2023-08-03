@@ -5476,3 +5476,75 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.03-17.51.03:086][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
 [2023.08.03-17.51.03:094][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
 [2023.08.03-17.51.03:161][549]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2023.08.03-17.51.33:077][812]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2023.08.03-17.51.33:082][812]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2023.08.03-17.51.33:098][812]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-17.51.33:098][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-17.51.33:228][812]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-17.51.33:228][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-17.51.33:295][812]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.08.03-17.51.33:295][812]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-17.51.33:295][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-17.51.33:387][812]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.08.03-17.51.33:387][812]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-17.51.33:387][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-17.51.33:483][812]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.08.03-17.51.33:483][812]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-17.51.33:483][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-17.52.09:727][422]LogEditorViewport: Clicking Background
+[2023.08.03-17.52.23:102][327]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/BP_Horseman.BP_Horseman
+[2023.08.03-17.52.23:103][327]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: ================================================
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: Total job queries 2408, among them cache hits 201 (8.35%)
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: Tracking 2207 distinct input hashes that result in 869 distinct outputs (39.37%)
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: RAM used: 16.08 MB (0.02 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.98%
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: Shaders Compiled: 1013
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: Jobs assigned 1013, completed 1013 (100.00%)
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: Average time worker was idle: 3.27 s
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: Time job spent in pending queue: average 67.12 s, longest 135.35 s
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: Job execution time: average 0.94 s, max 10.40 s
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: Job life time (pending + execution): average 68.07 s, max 135.75
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 154.57 s
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: Jobs were issued in 966 batches (only local compilation was used), average 1.05 jobs/batch
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: Average processing rate: 6.55 jobs/sec
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: Total thread time: 528.05 s
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: Total thread preprocess time: 28.38 s
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: Percentage time preprocessing: 5.38%
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: Effective parallelization: 3.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 1.25 sec, max 1.25 sec, min 1.25 sec)
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 1.24 sec, max 1.24 sec, min 1.24 sec)
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 1.16 sec, max 1.16 sec, min 1.16 sec)
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 1.06 sec, max 1.49 sec, min 0.69 sec)
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 1.06 sec, max 1.06 sec, min 1.06 sec)
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display:                                             FDebugViewModeVS - 5.86% of total time (compiled   68 times, average 0.46 sec, max 0.65 sec, min 0.42 sec)
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.64% of total time (compiled   68 times, average 0.44 sec, max 1.40 sec, min 0.35 sec)
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.52% of total time (compiled   39 times, average 0.61 sec, max 0.80 sec, min 0.55 sec)
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.47% of total time (compiled   42 times, average 0.56 sec, max 0.80 sec, min 0.45 sec)
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 4.45% of total time (compiled   39 times, average 0.60 sec, max 1.00 sec, min 0.53 sec)
+[2023.08.03-17.52.23:731][329]LogShaderCompilers: Display: ================================================
+[2023.08.03-17.53.28:342][303]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BPI_Enemy_Hit.BPI_Enemy_Hit
+[2023.08.03-17.53.28:342][303]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.03-17.53.30:843][452]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-17.53.30:843][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-17.53.41:323][282]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Blueprints/AI/BT_Horseman.BT_Horseman
+[2023.08.03-17.53.45:999][688]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/Tasks/BTTask_Horseman_Charge.BTTask_Horseman_Charge
+[2023.08.03-17.53.45:999][688]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.03-17.54.17:621][903]BlueprintLog: New page: Compile BTTask_Horseman_Charge
+[2023.08.03-17.54.17:695][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.08.03-17.54.18:200][943]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.03-17.54.18:230][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/Tasks/BTTask_Horseman_Charge" FILE="../../../../../Repos/Top-Down-Shooter/Shooter/Content/Blueprints/AI/Tasks/BTTask_Horseman_Charge.uasset" SILENT=true
+[2023.08.03-17.54.18:238][943]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/Tasks/BTTask_Horseman_Charge
+[2023.08.03-17.54.18:238][943]LogSavePackage: Moving '../../../../../Repos/Top-Down-Shooter/Shooter/Saved/BTTask_Horseman_Charge9D0CEDA84C268A8A29C31CA2EBD68B04.tmp' to '../../../../../Repos/Top-Down-Shooter/Shooter/Content/Blueprints/AI/Tasks/BTTask_Horseman_Charge.uasset'
+[2023.08.03-17.54.18:246][943]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 4.07 sec)
+[2023.08.03-17.54.18:253][943]AssetCheck: New page: Asset Save: BTTask_Horseman_Charge
+[2023.08.03-17.54.18:253][943]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/Tasks/BTTask_Horseman_Charge.BTTask_Horseman_Charge
+[2023.08.03-17.54.19:447][ 45]LogSlate: Window 'BTTask_Horseman_Charge' being destroyed
+[2023.08.03-17.54.19:452][ 45]LogSlate: Window 'BTTask_Horseman_Charge' being destroyed
+[2023.08.03-17.54.19:472][ 45]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-17.54.19:472][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.03-17.54.19:618][ 45]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2023.08.03-17.54.19:618][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
